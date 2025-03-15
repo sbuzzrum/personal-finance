@@ -22,7 +22,11 @@ const model = ref<MenuItem[]>([
     {
         label: 'UI Components',
         items: [
-            { label: 'Transactions', icon: 'pi pi-fw pi-id-card', to: '/transactions' }
+            { label: 'Transactions', icon: 'pi pi-fw pi-id-card', to: '/transactions' },
+            { label: 'Categories', icon: 'pi pi-tags', to: '/categories' },
+            { label: 'Totalizers', icon: 'pi pi-tags', to: '/totalizers' },
+            { label: 'Icons', icon: 'pi pi-fw pi-check-square', to: '/icons' }
+
             /*{ label: 'Input', icon: 'pi pi-fw pi-check-square', to: '/uikit/input' },
             { label: 'Button', icon: 'pi pi-fw pi-mobile', to: '/uikit/button', class: 'rotated-icon' },
             { label: 'Table', icon: 'pi pi-fw pi-table', to: '/uikit/table' },

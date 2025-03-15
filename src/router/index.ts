@@ -36,7 +36,51 @@ const router = createRouter({
                     component: () => import('@/views/pages/Transactions.vue')
                 }
             ]
+        },
+        {
+            path: '/categories',
+            component: AppLayout,
+            children: [
+                {
+                    path: '/categories',
+                    name: 'categories',
+                    component: () => import('@/views/pages/Categories.vue')
+                }
+            ]
+        },
+        {
+            path: '/icons',
+            component: AppLayout,
+            children: [
+                {
+                    path: '/icons',
+                    name: 'icons',
+                    component: () => import('@/views/pages/IconSorter.vue')
+                }
+            ]
+        },
+        {
+            path: '/totalizers',
+            component: AppLayout,
+            children: [
+                {
+                    path: '/totalizers',
+                    name: 'totalizers',
+                    component: () => import('@/views/pages/Totalizers.vue')
+                }
+            ]
         }
+        // {
+        //     path: '/budgets',
+        //     component: AppLayout,
+        //     children: [
+        //         {
+        //             path: '/budgets',
+        //             name: 'budgets',
+        //             component: () => import('@/views/pages/Budgets.vue')
+        //         }
+        //     ]
+        // }
     ]
 });
 

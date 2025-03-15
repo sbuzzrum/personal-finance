@@ -1,0 +1,5823 @@
+.echo-font-circle-m_Solid:before {
+  content: "\e915"; }
+
+.echo-font-circle-m_Regular:before {
+  content: "\e916"; }
+
+.echo-font-circle-m_Light:before {
+  content: "\e917"; }
+
+.echo-font-square-minus_Solid:before {
+  content: "\e918"; }
+
+.echo-font-square-minus_Regular:before {
+  content: "\e919"; }
+
+.echo-font-square-minus_Light:before {
+  content: "\e91a"; }
+
+.echo-font-square-plus_Solid:before {
+  content: "\e91b"; }
+
+.echo-font-square-plus_Regular:before {
+  content: "\e91c"; }
+
+.echo-font-square-plus_Light:before {
+  content: "\e91d"; }
+
+.echo-font-palette_Solid:before {
+  content: "\e900"; }
+
+.echo-font-palette_Regular:before {
+  content: "\e901"; }
+
+.echo-font-palette_Light:before {
+  content: "\e902"; }
+
+.echo-font-outdent_Solid:before {
+  content: "\e903"; }
+
+.echo-font-outdent_Regular:before {
+  content: "\e904"; }
+
+.echo-font-outdent_Light:before {
+  content: "\e905"; }
+
+.echo-font-indent_Solid:before {
+  content: "\e906"; }
+
+.echo-font-indent_Regular:before {
+  content: "\e907"; }
+
+.echo-font-indent_Light:before {
+  content: "\e908"; }
+
+.echo-font-highlighter-line_Solid:before {
+  content: "\e909"; }
+
+.echo-font-highlighter-line_Regular:before {
+  content: "\e90a"; }
+
+.echo-font-highlighter-line_Light:before {
+  content: "\e90b"; }
+
+.echo-font-align-right_Solid:before {
+  content: "\e90c"; }
+
+.echo-font-align-right_Regular:before {
+  content: "\e90d"; }
+
+.echo-font-align-right_Light:before {
+  content: "\e90e"; }
+
+.echo-font-align-left_Solid:before {
+  content: "\e90f"; }
+
+.echo-font-align-left_Regular:before {
+  content: "\e910"; }
+
+.echo-font-align-left_Light:before {
+  content: "\e911"; }
+
+.echo-font-align-center_Solid:before {
+  content: "\e912"; }
+
+.echo-font-align-center_Regular:before {
+  content: "\e913"; }
+
+.echo-font-align-center_Light:before {
+  content: "\e914"; }
+
+.echo-font-address-card_Light:before {
+  content: "\ea8c"; }
+
+.echo-font-address-card_Regular:before {
+  content: "\ea8d"; }
+
+.echo-font-address-card_Solid:before {
+  content: "\ea8e"; }
+
+.echo-font-arrow-down_Light:before {
+  content: "\ea8f"; }
+
+.echo-font-arrow-down_Regular:before {
+  content: "\ea90"; }
+
+.echo-font-arrow-down_Solid:before {
+  content: "\ea91"; }
+
+.echo-font-arrow-down-to-line_Light:before {
+  content: "\ea92"; }
+
+.echo-font-arrow-down-to-line_Regular:before {
+  content: "\ea93"; }
+
+.echo-font-arrow-down-to-line_Solid:before {
+  content: "\ea94"; }
+
+.echo-font-arrow-left_Light:before {
+  content: "\ea95"; }
+
+.echo-font-arrow-left_Regular:before {
+  content: "\ea96"; }
+
+.echo-font-arrow-left_Solid:before {
+  content: "\ea97"; }
+
+.echo-font-arrow-right_Light:before {
+  content: "\ea98"; }
+
+.echo-font-arrow-right_Regular:before {
+  content: "\ea99"; }
+
+.echo-font-arrow-right_Solid:before {
+  content: "\ea9a"; }
+
+.echo-font-arrow-up_Light:before {
+  content: "\ea9b"; }
+
+.echo-font-arrow-up_Regular:before {
+  content: "\ea9c"; }
+
+.echo-font-arrow-up_Solid:before {
+  content: "\ea9d"; }
+
+.echo-font-arrow-up-right-from-square_Light:before {
+  content: "\ea9e"; }
+
+.echo-font-arrow-up-right-from-square_Regular:before {
+  content: "\ea9f"; }
+
+.echo-font-arrow-up-right-from-square_Solid:before {
+  content: "\eaa0"; }
+
+.echo-font-building-columns_Light:before {
+  content: "\eaa1"; }
+
+.echo-font-building-columns_Regular:before {
+  content: "\eaa2"; }
+
+.echo-font-building-columns_Solid:before {
+  content: "\eaa3"; }
+
+.echo-font-bullhorn_Light:before {
+  content: "\eaa4"; }
+
+.echo-font-bullhorn_Regular:before {
+  content: "\eaa5"; }
+
+.echo-font-bullhorn_Solid:before {
+  content: "\eaa6"; }
+
+.echo-font-caret-down_Light:before {
+  content: "\eaa7"; }
+
+.echo-font-caret-down_Regular:before {
+  content: "\eaa8"; }
+
+.echo-font-caret-down_Solid:before {
+  content: "\eaa9"; }
+
+.echo-font-caret-up_Light:before {
+  content: "\eaaa"; }
+
+.echo-font-caret-up_Regular:before {
+  content: "\eaab"; }
+
+.echo-font-caret-up_Solid:before {
+  content: "\eaac"; }
+
+.echo-font-cart-plus_Light:before {
+  content: "\eaad"; }
+
+.echo-font-cart-plus_Regular:before {
+  content: "\eaae"; }
+
+.echo-font-cart-plus_Solid:before {
+  content: "\eaaf"; }
+
+.echo-font-check_Light:before {
+  content: "\eab0"; }
+
+.echo-font-check_Regular:before {
+  content: "\eab1"; }
+
+.echo-font-check_Solid:before {
+  content: "\eab2"; }
+
+.echo-font-chevron-down_Light:before {
+  content: "\eab3"; }
+
+.echo-font-chevron-down_Regular:before {
+  content: "\eab4"; }
+
+.echo-font-chevron-down_Solid:before {
+  content: "\eab5"; }
+
+.echo-font-chevrons-down_Light:before {
+  content: "\eab6"; }
+
+.echo-font-chevrons-down_Regular:before {
+  content: "\eab7"; }
+
+.echo-font-chevrons-down_Solid:before {
+  content: "\eab8"; }
+
+.echo-font-chevrons-up_Light:before {
+  content: "\eab9"; }
+
+.echo-font-chevrons-up_Regular:before {
+  content: "\eaba"; }
+
+.echo-font-chevrons-up_Solid:before {
+  content: "\eabb"; }
+
+.echo-font-chevron-up_Light:before {
+  content: "\eabc"; }
+
+.echo-font-chevron-up_Regular:before {
+  content: "\eabd"; }
+
+.echo-font-chevron-up_Solid:before {
+  content: "\eabe"; }
+
+.echo-font-circle-check_Light:before {
+  content: "\eabf"; }
+
+.echo-font-circle-check_Regular:before {
+  content: "\eac0"; }
+
+.echo-font-circle-check_Solid:before {
+  content: "\eac1"; }
+
+.echo-font-circle-exclamation_Light:before {
+  content: "\eac2"; }
+
+.echo-font-circle-exclamation_Regular:before {
+  content: "\eac3"; }
+
+.echo-font-circle-exclamation_Solid:before {
+  content: "\eac4"; }
+
+.echo-font-circle-info_Light:before {
+  content: "\eac5"; }
+
+.echo-font-circle-info_Regular:before {
+  content: "\eac6"; }
+
+.echo-font-circle-info_Solid:before {
+  content: "\eac7"; }
+
+.echo-font-circle-question_Light:before {
+  content: "\eac8"; }
+
+.echo-font-circle-question_Regular:before {
+  content: "\eac9"; }
+
+.echo-font-circle-question_Solid:before {
+  content: "\eaca"; }
+
+.echo-font-circle-xmark_Light:before {
+  content: "\eacb"; }
+
+.echo-font-circle-xmark_Regular:before {
+  content: "\eacc"; }
+
+.echo-font-circle-xmark_Solid:before {
+  content: "\eacd"; }
+
+.echo-font-clock_Light:before {
+  content: "\eace"; }
+
+.echo-font-clock_Regular:before {
+  content: "\eacf"; }
+
+.echo-font-clock_Solid:before {
+  content: "\ead0"; }
+
+.echo-font-ellipsis-vertical_Light:before {
+  content: "\ead1"; }
+
+.echo-font-ellipsis-vertical_Regular:before {
+  content: "\ead2"; }
+
+.echo-font-ellipsis-vertical_Solid:before {
+  content: "\ead3"; }
+
+.echo-font-eraser_Light:before {
+  content: "\ead4"; }
+
+.echo-font-eraser_Regular:before {
+  content: "\ead5"; }
+
+.echo-font-eraser_Solid:before {
+  content: "\ead6"; }
+
+.echo-font-eye_Light:before {
+  content: "\ead7"; }
+
+.echo-font-eye_Regular:before {
+  content: "\ead8"; }
+
+.echo-font-eye_Solid:before {
+  content: "\ead9"; }
+
+.echo-font-eye-slash_Light:before {
+  content: "\eada"; }
+
+.echo-font-eye-slash_Regular:before {
+  content: "\eadb"; }
+
+.echo-font-eye-slash_Solid:before {
+  content: "\eadc"; }
+
+.echo-font-face-smile_Light:before {
+  content: "\eadd"; }
+
+.echo-font-face-smile_Regular:before {
+  content: "\eade"; }
+
+.echo-font-underline_Solid:before {
+  content: "\eae1"; }
+
+.echo-font-underline_Regular:before {
+  content: "\eae2"; }
+
+.echo-font-underline_Light:before {
+  content: "\eae3"; }
+
+.echo-font-sterling-sign_Solid:before {
+  content: "\eae4"; }
+
+.echo-font-sterling-sign_Regular:before {
+  content: "\eae5"; }
+
+.echo-font-sterling-sign_Light:before {
+  content: "\eae6"; }
+
+.echo-font-percent_Solid:before {
+  content: "\eae7"; }
+
+.echo-font-percent_Regular:before {
+  content: "\eae8"; }
+
+.echo-font-percent_Light:before {
+  content: "\eae9"; }
+
+.echo-font-map-location-dot_Solid:before {
+  content: "\eaea"; }
+
+.echo-font-map-location-dot_Regular:before {
+  content: "\eaeb"; }
+
+.echo-font-map-location-dot_Light:before {
+  content: "\eaec"; }
+
+.echo-font-magnifying-glass_Solid:before {
+  content: "\eaed"; }
+
+.echo-font-magnifying-glass_Regular:before {
+  content: "\eaee"; }
+
+.echo-font-magnifying-glass_Light:before {
+  content: "\eaef"; }
+
+.echo-font-list_Solid:before {
+  content: "\eaf0"; }
+
+.echo-font-list_Regular:before {
+  content: "\eaf1"; }
+
+.echo-font-list_Light:before {
+  content: "\eaf2"; }
+
+.echo-font-list-ol_Solid:before {
+  content: "\eaf3"; }
+
+.echo-font-list-ol_Regular:before {
+  content: "\eaf4"; }
+
+.echo-font-list-ol_Light:before {
+  content: "\eaf5"; }
+
+.echo-font-link_Solid:before {
+  content: "\eaf6"; }
+
+.echo-font-link_Regular:before {
+  content: "\eaf7"; }
+
+.echo-font-link_Light:before {
+  content: "\eaf8"; }
+
+.echo-font-italic_Solid:before {
+  content: "\eaf9"; }
+
+.echo-font-italic_Regular:before {
+  content: "\eafa"; }
+
+.echo-font-italic_Light:before {
+  content: "\eafb"; }
+
+.echo-font-euro-sign_Solid:before {
+  content: "\eafc"; }
+
+.echo-font-euro-sign_Regular:before {
+  content: "\eafd"; }
+
+.echo-font-euro-sign_Light:before {
+  content: "\eafe"; }
+
+.echo-font-dollar-sign_Solid:before {
+  content: "\eaff"; }
+
+.echo-font-dollar-sign_Regular:before {
+  content: "\eb00"; }
+
+.echo-font-dollar-sign_Light:before {
+  content: "\eb01"; }
+
+.echo-font-bold_Solid:before {
+  content: "\eb02"; }
+
+.echo-font-bold_Regular:before {
+  content: "\eb03"; }
+
+.echo-font-bold_Light:before {
+  content: "\eb04"; }
+
+.echo-font-arrow-up-to-line_Solid:before {
+  content: "\eb05"; }
+
+.echo-font-arrow-up-to-line_Regular:before {
+  content: "\eb06"; }
+
+.echo-font-arrow-up-to-line_Light:before {
+  content: "\eb07"; }
+
+.echo-font-address-book_Solid:before {
+  content: "\eb08"; }
+
+.echo-font-address-book_Regular:before {
+  content: "\eb09"; }
+
+.echo-font-address-book_Light:before {
+  content: "\eb0a"; }
+
+.echo-font-face-smile_Solid:before {
+  content: "\eb0b"; }
+
+.echo-font-file-export_Light:before {
+  content: "\eb0c"; }
+
+.echo-font-file-export_Regular:before {
+  content: "\eb0d"; }
+
+.echo-font-file-export_Solid:before {
+  content: "\eb0e"; }
+
+.echo-font-file-pen_Light:before {
+  content: "\eb0f"; }
+
+.echo-font-file-pen_Regular:before {
+  content: "\eb10"; }
+
+.echo-font-file-pen_Solid:before {
+  content: "\eb11"; }
+
+.echo-font-file-signature_Light:before {
+  content: "\eb12"; }
+
+.echo-font-file-signature_Regular:before {
+  content: "\eb13"; }
+
+.echo-font-file-signature_Solid:before {
+  content: "\eb14"; }
+
+.echo-font-folder-xmark_Light:before {
+  content: "\eb15"; }
+
+.echo-font-folder-xmark_Regular:before {
+  content: "\eb16"; }
+
+.echo-font-folder-xmark_Solid:before {
+  content: "\eb17"; }
+
+.echo-font-heart_Light:before {
+  content: "\eb18"; }
+
+.echo-font-heart_Regular:before {
+  content: "\eb19"; }
+
+.echo-font-heart_Solid:before {
+  content: "\eb1a"; }
+
+.echo-font-key_Light:before {
+  content: "\eb1b"; }
+
+.echo-font-key_Regular:before {
+  content: "\eb1c"; }
+
+.echo-font-key_Solid:before {
+  content: "\eb1d"; }
+
+.echo-font-laptop-mobile_Light:before {
+  content: "\eb1e"; }
+
+.echo-font-laptop-mobile_Regular:before {
+  content: "\eb1f"; }
+
+.echo-font-laptop-mobile_Solid:before {
+  content: "\eb20"; }
+
+.echo-font-message-plus_Light:before {
+  content: "\eb21"; }
+
+.echo-font-message-plus_Regular:before {
+  content: "\eb22"; }
+
+.echo-font-message-plus_Solid:before {
+  content: "\eb23"; }
+
+.echo-font-mobile_Light:before {
+  content: "\eb24"; }
+
+.echo-font-mobile_Regular:before {
+  content: "\eb25"; }
+
+.echo-font-mobile_Solid:before {
+  content: "\eb26"; }
+
+.echo-font-pen_Light:before {
+  content: "\eb27"; }
+
+.echo-font-pen_Regular:before {
+  content: "\eb28"; }
+
+.echo-font-pen_Solid:before {
+  content: "\eb29"; }
+
+.echo-font-play_Light:before {
+  content: "\eb2a"; }
+
+.echo-font-play_Regular:before {
+  content: "\eb2b"; }
+
+.echo-font-play_Solid:before {
+  content: "\eb2c"; }
+
+.echo-font-plus_Light:before {
+  content: "\eb2d"; }
+
+.echo-font-plus_Regular:before {
+  content: "\eb2e"; }
+
+.echo-font-plus_Solid:before {
+  content: "\eb2f"; }
+
+.echo-font-print_Light:before {
+  content: "\eb30"; }
+
+.echo-font-print_Regular:before {
+  content: "\eb31"; }
+
+.echo-font-print_Solid:before {
+  content: "\eb32"; }
+
+.echo-font-share_Light:before {
+  content: "\eb33"; }
+
+.echo-font-share_Regular:before {
+  content: "\eb34"; }
+
+.echo-font-share_Solid:before {
+  content: "\eb35"; }
+
+.echo-font-trash_Light:before {
+  content: "\eb36"; }
+
+.echo-font-trash_Regular:before {
+  content: "\eb37"; }
+
+.echo-font-trash_Solid:before {
+  content: "\eb38"; }
+
+.echo-font-user-plus_Light:before {
+  content: "\eb39"; }
+
+.echo-font-user-plus_Regular:before {
+  content: "\eb3a"; }
+
+.echo-font-user-plus_Solid:before {
+  content: "\eb3b"; }
+
+.echo-font-xmark_Light:before {
+  content: "\eb3c"; }
+
+.echo-font-xmark_Regular:before {
+  content: "\eb3d"; }
+
+.echo-font-xmark_Solid:before {
+  content: "\eb3e"; }
+
+@font-face {
+  font-family: 'echofont';
+  src: url("/assets/webapp/fonts/echo/echofont.eot?3h1m7w");
+  src: url("/assets/webapp/fonts/echo/echofont.eot?3h1m7w#iefix") format("embedded-opentype"), url("/assets/webapp/fonts/echo/echofont.woff2?3h1m7w") format("woff2"), url("/assets/webapp/fonts/echo/echofont.ttf?3h1m7w") format("truetype"), url("/assets/webapp/fonts/echo/echofont.woff?3h1m7w") format("woff"), url("/assets/webapp/fonts/echo/echofont.svg?3h1m7w#echofont") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+[data-icon]:before {
+  font-family: "echofont" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+[class^="echo-font-"]:before,
+[class*=" echo-font-"]:before,
+[class^="echo-font-"],
+[class*=" echo-font-"] {
+  font-family: "echofont" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.echo-font-1-8750x {
+  font-size: 1.875em; }
+
+.echo-font-2x {
+  font-size: 2em; }
+
+.echo-font-2-25x {
+  font-size: 2.25em; }
+
+.echo-font-3x {
+  font-size: 3em; }
+
+.echo-font-4x {
+  font-size: 4em; }
+
+.echo-font-5x {
+  font-size: 5em; }
+
+.echo-font-6x {
+  font-size: 6em; }
+
+.echo-duotone-font-palette:before {
+  content: "\e96d"; }
+
+.echo-duotone-font-palette:after {
+  content: "\e96e";
+  margin-left: -1em; }
+
+.echo-duotone-font-square-plus:before {
+  content: "\e900"; }
+
+.echo-duotone-font-square-plus:after {
+  content: "\e901";
+  margin-left: -1em; }
+
+.echo-duotone-font-square-minus:before {
+  content: "\e96b"; }
+
+.echo-duotone-font-square-minus:after {
+  content: "\e96c";
+  margin-left: -1em; }
+
+.echo-duotone-font-outdent:before {
+  content: "\e972"; }
+
+.echo-duotone-font-outdent:after {
+  content: "\e973";
+  margin-left: -1em; }
+
+.echo-duotone-font-indent:before {
+  content: "\e974"; }
+
+.echo-duotone-font-indent:after {
+  content: "\e975";
+  margin-left: -1em; }
+
+.echo-duotone-font-highlighter-line:before {
+  content: "\e976"; }
+
+.echo-duotone-font-highlighter-line:after {
+  content: "\e977";
+  margin-left: -1em; }
+
+.echo-duotone-font-circle-m:before {
+  content: "\e978"; }
+
+.echo-duotone-font-circle-m:after {
+  content: "\e979";
+  margin-left: -1em; }
+
+.echo-duotone-font-align-right:before {
+  content: "\e97a"; }
+
+.echo-duotone-font-align-right:after {
+  content: "\e97b";
+  margin-left: -1em; }
+
+.echo-duotone-font-align-left:before {
+  content: "\e97c"; }
+
+.echo-duotone-font-align-left:after {
+  content: "\e97d";
+  margin-left: -1em; }
+
+.echo-duotone-font-align-center:before {
+  content: "\e97e"; }
+
+.echo-duotone-font-align-center:after {
+  content: "\e97f";
+  margin-left: -1em; }
+
+.echo-duotone-font-address-book:before {
+  content: "\e980"; }
+
+.echo-duotone-font-address-book:after {
+  content: "\e981";
+  margin-left: -1em; }
+
+.echo-duotone-font-address-card:before {
+  content: "\e902"; }
+
+.echo-duotone-font-address-card:after {
+  content: "\e903";
+  margin-left: -1em; }
+
+.echo-duotone-font-arrow-down:before {
+  content: "\e904"; }
+
+.echo-duotone-font-arrow-down:after {
+  content: "\e905";
+  margin-left: -1em; }
+
+.echo-duotone-font-arrow-down-to-line:before {
+  content: "\e906"; }
+
+.echo-duotone-font-arrow-down-to-line:after {
+  content: "\e907";
+  margin-left: -1em; }
+
+.echo-duotone-font-arrow-left:before {
+  content: "\e908"; }
+
+.echo-duotone-font-arrow-left:after {
+  content: "\e909";
+  margin-left: -1em; }
+
+.echo-duotone-font-arrow-right:before {
+  content: "\e90a"; }
+
+.echo-duotone-font-arrow-right:after {
+  content: "\e90b";
+  margin-left: -1em; }
+
+.echo-duotone-font-arrow-up:before {
+  content: "\e90c"; }
+
+.echo-duotone-font-arrow-up:after {
+  content: "\e90d";
+  margin-left: -1em; }
+
+.echo-duotone-font-arrow-up-right-from-square:before {
+  content: "\e90e"; }
+
+.echo-duotone-font-arrow-up-right-from-square:after {
+  content: "\e90f";
+  margin-left: -1em; }
+
+.echo-duotone-font-arrow-up-to-line:before {
+  content: "\e910"; }
+
+.echo-duotone-font-arrow-up-to-line:after {
+  content: "\e911";
+  margin-left: -1em; }
+
+.echo-duotone-font-bold:after {
+  content: "\e912"; }
+
+.echo-duotone-font-building-columns:before {
+  content: "\e913"; }
+
+.echo-duotone-font-building-columns:after {
+  content: "\e914";
+  margin-left: -1em; }
+
+.echo-duotone-font-bullhorn:before {
+  content: "\e915"; }
+
+.echo-duotone-font-bullhorn:after {
+  content: "\e916";
+  margin-left: -1em; }
+
+.echo-duotone-font-caret-down:after {
+  content: "\e917"; }
+
+.echo-duotone-font-caret-up:after {
+  content: "\e918"; }
+
+.echo-duotone-font-cart-plus:before {
+  content: "\e919"; }
+
+.echo-duotone-font-cart-plus:after {
+  content: "\e91a";
+  margin-left: -1em; }
+
+.echo-duotone-font-check:after {
+  content: "\e91b"; }
+
+.echo-duotone-font-chevron-down:after {
+  content: "\e91c"; }
+
+.echo-duotone-font-chevrons-down:before {
+  content: "\e91d"; }
+
+.echo-duotone-font-chevrons-down:after {
+  content: "\e91e";
+  margin-left: -1em; }
+
+.echo-duotone-font-chevrons-up:before {
+  content: "\e91f"; }
+
+.echo-duotone-font-chevrons-up:after {
+  content: "\e920";
+  margin-left: -1em; }
+
+.echo-duotone-font-chevron-up:after {
+  content: "\e921"; }
+
+.echo-duotone-font-circle-check:before {
+  content: "\e922"; }
+
+.echo-duotone-font-circle-check:after {
+  content: "\e923";
+  margin-left: -1em; }
+
+.echo-duotone-font-circle-exclamation:before {
+  content: "\e924"; }
+
+.echo-duotone-font-circle-exclamation:after {
+  content: "\e925";
+  margin-left: -1em; }
+
+.echo-duotone-font-circle-info:before {
+  content: "\e926"; }
+
+.echo-duotone-font-circle-info:after {
+  content: "\e927";
+  margin-left: -1em; }
+
+.echo-duotone-font-circle-question:before {
+  content: "\e928"; }
+
+.echo-duotone-font-circle-question:after {
+  content: "\e929";
+  margin-left: -1em; }
+
+.echo-duotone-font-circle-xmark:before {
+  content: "\e92a"; }
+
+.echo-duotone-font-circle-xmark:after {
+  content: "\e92b";
+  margin-left: -1em; }
+
+.echo-duotone-font-clock:before {
+  content: "\e92c"; }
+
+.echo-duotone-font-clock:after {
+  content: "\e92d";
+  margin-left: -1em; }
+
+.echo-duotone-font-dollar-sign:before {
+  content: "\e92e"; }
+
+.echo-duotone-font-dollar-sign:after {
+  content: "\e92f";
+  margin-left: -1em; }
+
+.echo-duotone-font-ellipsis-vertical:before {
+  content: "\e930"; }
+
+.echo-duotone-font-ellipsis-vertical:after {
+  content: "\e931";
+  margin-left: -1em; }
+
+.echo-duotone-font-eraser:before {
+  content: "\e932"; }
+
+.echo-duotone-font-eraser:after {
+  content: "\e933";
+  margin-left: -1em; }
+
+.echo-duotone-font-euro-sign:before {
+  content: "\e934"; }
+
+.echo-duotone-font-euro-sign:after {
+  content: "\e935";
+  margin-left: -1em; }
+
+.echo-duotone-font-eye:before {
+  content: "\e936"; }
+
+.echo-duotone-font-eye:after {
+  content: "\e937";
+  margin-left: -1em; }
+
+.echo-duotone-font-eye-slash:before {
+  content: "\e938"; }
+
+.echo-duotone-font-eye-slash:after {
+  content: "\e939";
+  margin-left: -1em; }
+
+.echo-duotone-font-face-smile:before {
+  content: "\e93a"; }
+
+.echo-duotone-font-face-smile:after {
+  content: "\e93b";
+  margin-left: -1em; }
+
+.echo-duotone-font-file-export:before {
+  content: "\e93c"; }
+
+.echo-duotone-font-file-export:after {
+  content: "\e93d";
+  margin-left: -1em; }
+
+.echo-duotone-font-file-pen:before {
+  content: "\e93e"; }
+
+.echo-duotone-font-file-pen:after {
+  content: "\e93f";
+  margin-left: -1em; }
+
+.echo-duotone-font-file-signature:before {
+  content: "\e940"; }
+
+.echo-duotone-font-file-signature:after {
+  content: "\e941";
+  margin-left: -1em; }
+
+.echo-duotone-font-folder-xmark:before {
+  content: "\e942"; }
+
+.echo-duotone-font-folder-xmark:after {
+  content: "\e943";
+  margin-left: -1em; }
+
+.echo-duotone-font-heart:after {
+  content: "\e944"; }
+
+.echo-duotone-font-italic:after {
+  content: "\e945"; }
+
+.echo-duotone-font-key:before {
+  content: "\e946"; }
+
+.echo-duotone-font-key:after {
+  content: "\e947";
+  margin-left: -1em; }
+
+.echo-duotone-font-laptop-mobile:before {
+  content: "\e948"; }
+
+.echo-duotone-font-laptop-mobile:after {
+  content: "\e949";
+  margin-left: -1em; }
+
+.echo-duotone-font-link:before {
+  content: "\e94a"; }
+
+.echo-duotone-font-link:after {
+  content: "\e94b";
+  margin-left: -1em; }
+
+.echo-duotone-font-list:before {
+  content: "\e94c"; }
+
+.echo-duotone-font-list:after {
+  content: "\e94d";
+  margin-left: -1em; }
+
+.echo-duotone-font-list-ol:before {
+  content: "\e94e"; }
+
+.echo-duotone-font-list-ol:after {
+  content: "\e94f";
+  margin-left: -1em; }
+
+.echo-duotone-font-magnifying-glass:before {
+  content: "\e950"; }
+
+.echo-duotone-font-magnifying-glass:after {
+  content: "\e951";
+  margin-left: -1em; }
+
+.echo-duotone-font-map-location-dot:before {
+  content: "\e952"; }
+
+.echo-duotone-font-map-location-dot:after {
+  content: "\e953";
+  margin-left: -1em; }
+
+.echo-duotone-font-message-plus:before {
+  content: "\e954"; }
+
+.echo-duotone-font-message-plus:after {
+  content: "\e955";
+  margin-left: -1em; }
+
+.echo-duotone-font-mobile:before {
+  content: "\e956"; }
+
+.echo-duotone-font-mobile:after {
+  content: "\e957";
+  margin-left: -1em; }
+
+.echo-duotone-font-pen:before {
+  content: "\e958"; }
+
+.echo-duotone-font-pen:after {
+  content: "\e959";
+  margin-left: -1em; }
+
+.echo-duotone-font-percent:before {
+  content: "\e95a"; }
+
+.echo-duotone-font-percent:after {
+  content: "\e95b";
+  margin-left: -1em; }
+
+.echo-duotone-font-play:after {
+  content: "\e95c"; }
+
+.echo-duotone-font-plus:after {
+  content: "\e95d"; }
+
+.echo-duotone-font-print:before {
+  content: "\e95e"; }
+
+.echo-duotone-font-print:after {
+  content: "\e95f";
+  margin-left: -1em; }
+
+.echo-duotone-font-share:before {
+  content: "\e960"; }
+
+.echo-duotone-font-share:after {
+  content: "\e961";
+  margin-left: -1em; }
+
+.echo-duotone-font-sterling-sign:before {
+  content: "\e962"; }
+
+.echo-duotone-font-sterling-sign:after {
+  content: "\e963";
+  margin-left: -1em; }
+
+.echo-duotone-font-trash:before {
+  content: "\e964"; }
+
+.echo-duotone-font-trash:after {
+  content: "\e965";
+  margin-left: -1em; }
+
+.echo-duotone-font-underline:before {
+  content: "\e966"; }
+
+.echo-duotone-font-underline:after {
+  content: "\e967";
+  margin-left: -1em; }
+
+.echo-duotone-font-user-plus:before {
+  content: "\e968"; }
+
+.echo-duotone-font-user-plus:after {
+  content: "\e969";
+  margin-left: -1em; }
+
+.echo-duotone-font-xmark:after {
+  content: "\e96a"; }
+
+@font-face {
+  font-family: 'echoduotonefont';
+  src: url("/assets/webapp/fonts/echoduotone/echoduotonefont.eot?gf8hp3");
+  src: url("/assets/webapp/fonts/echoduotone/echoduotonefont.eot?gf8hp3#iefix") format("embedded-opentype"), url("/assets/webapp/fonts/echoduotone/echoduotonefont.woff2?gf8hp3") format("woff2"), url("/assets/webapp/fonts/echoduotone/echoduotonefont.ttf?gf8hp3") format("truetype"), url("/assets/webapp/fonts/echoduotone/echoduotonefont.woff?gf8hp3") format("woff"), url("/assets/webapp/fonts/echoduotone/echoduotonefont.svg?gf8hp3#echoduotonefont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block; }
+
+[class^="echo-duotone-font-"], [class*=" echo-duotone-font-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'echoduotonefont' !important;
+  speak: never;
+  font-size: 45px;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+[class^="echo-duotone-font-"]:before, [class*="echo-duotone-font-"]:before {
+  color: var(--dt-primary-color, #333333);
+  opacity: var(--dt-primary-opacity, 1); }
+
+[class^="echo-duotone-font-"]:after, [class*="echo-duotone-font-"]:after {
+  color: var(--dt-secondary-color, var(--dt-primary-color, #333333));
+  opacity: var(--dt-secondary-opacity, 0.4); }
+
+.echo-duotone-font-1-8750x {
+  font-size: 1.875em; }
+
+.echo-duotone-font-2x {
+  font-size: 2em; }
+
+.echo-duotone-font-2-25x {
+  font-size: 2.25em; }
+
+.echo-duotone-font-3x {
+  font-size: 3em; }
+
+.echo-duotone-font-4x {
+  font-size: 4em; }
+
+.echo-duotone-font-5x {
+  font-size: 5em; }
+
+.echo-duotone-font-6x {
+  font-size: 6em; }
+
+@font-face {
+  font-family: 'ispfont';
+  src: url("/assets/webapp/fonts/isp/ispfont.eot?mdt78e");
+  src: url("/assets/webapp/fonts/isp/ispfont.eot?mdt78e#iefix") format("embedded-opentype"), url("/assets/webapp/fonts/isp/ispfont.woff2?mdt78e") format("woff2"), url("/assets/webapp/fonts/isp/ispfont.ttf?mdt78e") format("truetype"), url("/assets/webapp/fonts/isp/ispfont.woff?mdt78e") format("woff"), url("/assets/webapp/fonts/isp/ispfont.svg?mdt78e#ispfont") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+[data-icon]:before {
+  font-family: "ispfont" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+[class^="isp-font-"]:before,
+[class*=" isp-font-"]:before,
+[class^="isp-font-"],
+[class*=" isp-font-"],
+[class^="ico-"]:before,
+[class*=" ico-"]:before,
+[class^="ico-"],
+[class*=" ico-"] {
+  font-family: "ispfont" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.icon {
+  display: inline-block;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 1;
+  font-size-adjust: none;
+  font-stretch: normal;
+  font-feature-settings: normal;
+  font-language-override: normal;
+  font-kerning: auto;
+  font-synthesis: weight style;
+  font-variant: normal;
+  font-size: inherit;
+  text-rendering: auto; }
+
+.isp-font-1-8750x {
+  font-size: 1.875em; }
+
+.isp-font-2x {
+  font-size: 2em; }
+
+.isp-font-2-25x {
+  font-size: 2.25em; }
+
+.isp-font-3x {
+  font-size: 3em; }
+
+.isp-font-4x {
+  font-size: 4em; }
+
+.isp-font-5x {
+  font-size: 5em; }
+
+.isp-font-6x {
+  font-size: 6em; }
+
+.isp-font-logo_05787:before {
+  content: "\e93c";
+  font-size: 1.7em; }
+
+.isp-font-logo_06385:before {
+  content: "\e93d";
+  font-size: 1.7em; }
+
+.isp-font-logo_06160:before {
+  content: "\e93e";
+  font-size: 1.7em; }
+
+.isp-font-logo_01025:before {
+  content: "\e93f";
+  font-size: 1.3em;
+  top: 2px;
+  position: relative; }
+
+.isp-font-logo_06260:before {
+  content: "\e940";
+  font-size: 1.7em; }
+
+.isp-font-logo_03239:before {
+  content: "\e9b4";
+  font-size: 1.7em; }
+
+.isp-font-logo_03296:before {
+  content: "\e9b3";
+  font-size: 1.7em; }
+
+.isp-font-ALFABETO:before {
+  content: "\e9a8"; }
+
+.isp-font-Icona_aumenta-il-plafond_iconfont:before {
+  content: "\e9b7"; }
+
+.isp-font-Icona_parla-con-noi_iconfont:before {
+  content: "\e9b6"; }
+
+.isp-font-Icona_vai-a-XME-conto_iconfont:before {
+  content: "\e9b5"; }
+
+.isp-font-Moto:before {
+  content: "\e9a2"; }
+
+.isp-font-Moto_eventoNaturale:before {
+  content: "\e9a4"; }
+
+.isp-font-Moto_incendio:before {
+  content: "\e9a3"; }
+
+.isp-font-Motoveicolo:before {
+  content: "\e9a0"; }
+
+.isp-font-PagoPA:before {
+  content: "\e9a1"; }
+
+.isp-font-Rimorchio:before {
+  content: "\e99f"; }
+
+.isp-font-bancomat_pay2:before {
+  content: "\e2d9"; }
+
+.isp-font-bancomat_pay:before {
+  content: "\e207"; }
+
+.isp-font-digifattura:before {
+  content: "\e966"; }
+
+.isp-font-navbar-menu:before {
+  content: "\e000"; }
+
+.isp-font-navbar-operazioni:before {
+  content: "\e001"; }
+
+.isp-font-navbar-search:before {
+  content: "\e002"; }
+
+.isp-font-navbar-gestore-01:before {
+  content: "\e003"; }
+
+.isp-font-navbar-gestore-02:before {
+  content: "\e004"; }
+
+.isp-font-navbar-gestore-03:before {
+  content: "\e005"; }
+
+.isp-font-navbar-gestore-04:before {
+  content: "\e006"; }
+
+.isp-font-menu-lamiasituazione:before {
+  content: "\e007"; }
+
+.isp-font-menu-conti:before {
+  content: "\e008"; }
+
+.isp-font-menu-carte:before {
+  content: "\e009"; }
+
+.isp-font-menu-borsellinidigitali:before {
+  content: "\e00a"; }
+
+.isp-font-menu-gestionespese:before {
+  content: "\e00b"; }
+
+.isp-font-menu-finanziamenti:before {
+  content: "\e00c"; }
+
+.isp-font-menu-risparmioeprevidenza:before {
+  content: "\e00d"; }
+
+.isp-font-menu-assicurazioni:before {
+  content: "\e00e"; }
+
+.isp-font-menu-ilmioprofilo:before {
+  content: "\e00f"; }
+
+.isp-font-menu-lemiebanche:before {
+  content: "\e010"; }
+
+.isp-font-menu-perme:before {
+  content: "\e011"; }
+
+.isp-font-menu-esci:before {
+  content: "\e012"; }
+
+.isp-font-menuops-lamiarubrica:before {
+  content: "\e013"; }
+
+.isp-font-menuops-operazioniricorrenti:before {
+  content: "\e014"; }
+
+.isp-font-menuops-revoche:before {
+  content: "\e015"; }
+
+.isp-font-footer-assistenza:before {
+  content: "\e016"; }
+
+.isp-font-footer-carta:before {
+  content: "\e017"; }
+
+.isp-font-servizio-ricordamidi:before {
+  content: "\e018"; }
+
+.isp-font-servizio-vorrei:before {
+  content: "\e019"; }
+
+.isp-font-servizio-archivio:before {
+  content: "\e01a"; }
+
+.isp-font-servizio-avvisi:before {
+  content: "\e01b"; }
+
+.isp-font-ops-bonifico:before {
+  content: "\e01c"; }
+
+.isp-font-ops-c-bonifico-n:before {
+  content: "\e01d"; }
+
+.isp-font-ops-c-bonifico-s:before {
+  content: "\e01e"; }
+
+.isp-font-comuni-aggiungi:before {
+  content: "\e01f"; }
+
+.isp-font-comuni-chiudi:before {
+  content: "\e020"; }
+
+.isp-font-comuni-freccia-dx1:before {
+  content: "\e021"; }
+
+.isp-font-comuni-freccia-sx1:before {
+  content: "\e022"; }
+
+.isp-font-comuni-preferiti-n:before {
+  content: "\e023"; }
+
+.isp-font-comuni-preferiti-s:before {
+  content: "\e024"; }
+
+.isp-font-comuni-c-alert-n:before {
+  content: "\e025"; }
+
+.isp-font-comuni-c-help-n:before {
+  content: "\e026"; }
+
+.isp-font-comuni-c-help-s:before {
+  content: "\e027"; }
+
+.isp-font-comuni-c-info-n:before {
+  content: "\e028"; }
+
+.isp-font-comuni-c-info-s:before {
+  content: "\e029"; }
+
+.isp-font-comuni-esito-ok:before {
+  content: "\e02a"; }
+
+.isp-font-comuni-esito-ko:before {
+  content: "\e02b"; }
+
+.isp-font-ops-giroconto:before {
+  content: "\e02c"; }
+
+.isp-font-ops-c-giroconto-n:before {
+  content: "\e02d"; }
+
+.isp-font-ops-c-giroconto-s:before {
+  content: "\e02e"; }
+
+.isp-font-ops-bonificoafiscali:before {
+  content: "\e02f"; }
+
+.isp-font-ops-c-bonificoafiscali-n:before {
+  content: "\e030"; }
+
+.isp-font-ops-c-bonificoafiscali-s:before {
+  content: "\e031"; }
+
+.isp-font-comuni-importo:before {
+  content: "\e032"; }
+
+.isp-font-comuni-achi:before {
+  content: "\e033"; }
+
+.isp-font-comuni-lamiarubrica:before {
+  content: "\e034"; }
+
+.isp-font-comuni-calendario:before {
+  content: "\e035"; }
+
+.isp-font-comuni-visualizzaricevuta:before {
+  content: "\e036"; }
+
+.isp-font-comuni-share:before {
+  content: "\e037"; }
+
+.isp-font-comuni-euro:before {
+  content: "\e038"; }
+
+.isp-font-comuni-c-aggiungiinformazioni-n:before {
+  content: "\e039"; }
+
+.isp-font-comuni-c-aggiungiinformazioni-s:before {
+  content: "\e03a"; }
+
+.isp-font-comuni-orologio:before {
+  content: "\e03b"; }
+
+.isp-font-comuni-check:before {
+  content: "\e03c"; }
+
+.isp-font-comuni-cancellacampo:before {
+  content: "\e03d"; }
+
+.isp-font-ops-filiale:before {
+  content: "\e03e"; }
+
+.isp-font-azioni-c-ripeti-n:before {
+  content: "\e03f"; }
+
+.isp-font-domiciliazioni-archivioaddebiti:before {
+  content: "\e040"; }
+
+.isp-font-doc-identita:before {
+  content: "\e041"; }
+
+.isp-font-o-key-piu:before {
+  content: "\e042"; }
+
+.isp-font-comuni-filtro:before {
+  content: "\e043"; }
+
+.isp-font-comuni-freccia-accordion-apri:before {
+  content: "\e044"; }
+
+.isp-font-comuni-freccia-accordion-chiudi:before {
+  content: "\e045"; }
+
+.isp-font-comuni-search:before {
+  content: "\e046"; }
+
+.isp-font-vorrei-cerchio-cuore-pieno:before {
+  content: "\e047"; }
+
+.isp-font-print:before {
+  content: "\e048"; }
+
+.isp-font-azioni-c-elimina-n:before {
+  content: "\e049"; }
+
+.isp-font-comuni-impostazioni:before {
+  content: "\e04a"; }
+
+.isp-font-comuni-c-persona-n:before {
+  content: "\e04b"; }
+
+.isp-font-comuni-c-persona-s:before {
+  content: "\e04c"; }
+
+.isp-font-comuni-c-azienda-n:before {
+  content: "\e04d"; }
+
+.isp-font-comuni-c-azienda-s:before {
+  content: "\e04e"; }
+
+.isp-font-ops-personafisica:before {
+  content: "\e04f"; }
+
+.isp-font-ops-personagiuridica:before {
+  content: "\e050"; }
+
+.isp-font-ops-dittaindividuale:before {
+  content: "\e051"; }
+
+.isp-font-ops-cittadinanzaitaliana:before {
+  content: "\e052"; }
+
+.isp-font-ops-cittadinanzaestera:before {
+  content: "\e053"; }
+
+.isp-font-ops-aggiungidebitore:before {
+  content: "\e054"; }
+
+.isp-font-comuni-c-chiudiinformazioni-n:before {
+  content: "\e055"; }
+
+.isp-font-comuni-c-chiudiinformazioni-s:before {
+  content: "\e056"; }
+
+.isp-font-avvisi-comunicazione:before {
+  content: "\e057"; }
+
+.isp-font-avvisi-c-comunicazione-n:before {
+  content: "\e058"; }
+
+.isp-font-avvisi-c-comunicazione-s:before {
+  content: "\e059"; }
+
+.isp-font-avvisi-istituzionale:before {
+  content: "\e05a"; }
+
+.isp-font-avvisi-c-istituzionale-n:before {
+  content: "\e05b"; }
+
+.isp-font-avvisi-c-istituzionale-s:before {
+  content: "\e05c"; }
+
+.isp-font-avvisi-novita:before {
+  content: "\e05d"; }
+
+.isp-font-avvisi-c-novita-n:before {
+  content: "\e05e"; }
+
+.isp-font-avvisi-c-novita-s:before {
+  content: "\e05f"; }
+
+.isp-font-avvisi-urgente:before {
+  content: "\e060"; }
+
+.isp-font-avvisi-c-urgente-n:before {
+  content: "\e061"; }
+
+.isp-font-avvisi-c-urgente-s:before {
+  content: "\e062"; }
+
+.isp-font-azioni-sostituisci:before {
+  content: "\e063"; }
+
+.isp-font-azioni-sospendi:before {
+  content: "\e064"; }
+
+.isp-font-archivio-estrattoconto:before {
+  content: "\e065"; }
+
+.isp-font-archivio-c-estrattoconto-n:before {
+  content: "\e066"; }
+
+.isp-font-archivio-c-estrattoconto-s:before {
+  content: "\e067"; }
+
+.isp-font-archivio-variazionevontratto:before {
+  content: "\e068"; }
+
+.isp-font-archivio-c-variazionevontratto-n:before {
+  content: "\e069"; }
+
+.isp-font-archivio-c-variazionevontratto-s:before {
+  content: "\e06a"; }
+
+.isp-font-azioni-revoca:before {
+  content: "\e06b"; }
+
+.isp-font-comuni-pdf:before {
+  content: "\e06c"; }
+
+.isp-font-comuni-c-pdf-n:before {
+  content: "\e06d"; }
+
+.isp-font-comuni-c-pdf-s:before {
+  content: "\e06e"; }
+
+.isp-font-vorrei-miinteressa:before {
+  content: "\e06f"; }
+
+.isp-font-vorrei-c-miinteressa-n:before {
+  content: "\e070"; }
+
+.isp-font-vorrei-c-miinteressa-s:before {
+  content: "\e071"; }
+
+.isp-font-vorrei-investimenti:before {
+  content: "\e072"; }
+
+.isp-font-vorrei-c-investimenti-n:before {
+  content: "\e073"; }
+
+.isp-font-vorrei-c-investimenti-s:before {
+  content: "\e074"; }
+
+.isp-font-vorrei-assicurazioni:before {
+  content: "\e075"; }
+
+.isp-font-vorrei-c-assicurazioni-n:before {
+  content: "\e076"; }
+
+.isp-font-vorrei-c-assicurazioni-s:before {
+  content: "\e077"; }
+
+.isp-font-vorrei-carte:before {
+  content: "\e078"; }
+
+.isp-font-vorrei-c-carte-n:before {
+  content: "\e079"; }
+
+.isp-font-vorrei-c-carte-s:before {
+  content: "\e07a"; }
+
+.isp-font-vorrei-finanziamentib:before {
+  content: "\e07b"; }
+
+.isp-font-vorrei-c-finanziamentib-n:before {
+  content: "\e07c"; }
+
+.isp-font-vorrei-c-finanziamentib-s:before {
+  content: "\e07d"; }
+
+.isp-font-vorrei-cuffie:before {
+  content: "\e07e"; }
+
+.isp-font-vorrei-c-cuffie-n:before {
+  content: "\e07f"; }
+
+.isp-font-vorrei-c-cuffie-s:before {
+  content: "\e080"; }
+
+.isp-font-vorrei-shopping:before {
+  content: "\e081"; }
+
+.isp-font-vorrei-c-shopping-n:before {
+  content: "\e082"; }
+
+.isp-font-vorrei-c-shopping-s:before {
+  content: "\e083"; }
+
+.isp-font-vorrei-cuore:before {
+  content: "\e084"; }
+
+.isp-font-vorrei-c-cuore-n:before {
+  content: "\e085"; }
+
+.isp-font-vorrei-c-cuore-s:before {
+  content: "\e086"; }
+
+.isp-font-vorrei-finanziamenti:before {
+  content: "\e087"; }
+
+.isp-font-vorrei-c-finanziamenti-n:before {
+  content: "\e088"; }
+
+.isp-font-vorrei-c-finanziamenti-s:before {
+  content: "\e089"; }
+
+.isp-font-azioni-rendiricorrente:before {
+  content: "\e08a"; }
+
+.isp-font-azioni-negozia:before {
+  content: "\e08b"; }
+
+.isp-font-azioni-modifica-penna:before {
+  content: "\e08c"; }
+
+.isp-font-azioni-modifica-matita:before {
+  content: "\e08d"; }
+
+.isp-font-azioni-c-ripeti-s:before {
+  content: "\e08e"; }
+
+.isp-font-azioni-c-riprova-n:before {
+  content: "\e08f"; }
+
+.isp-font-azioni-c-riprova-s:before {
+  content: "\e090"; }
+
+.isp-font-azioni-c-salva-n:before {
+  content: "\e091"; }
+
+.isp-font-azioni-c-salva-s:before {
+  content: "\e092"; }
+
+.isp-font-azioni-c-sblocca-n:before {
+  content: "\e093"; }
+
+.isp-font-azioni-c-sblocca-s:before {
+  content: "\e094"; }
+
+.isp-font-login-lucchetto:before {
+  content: "\e095"; }
+
+.isp-font-footer-contrasto-1:before {
+  content: "\e096"; }
+
+.isp-font-footer-contrasto-2:before {
+  content: "\e097"; }
+
+.isp-font-footer-testo-1:before {
+  content: "\e098"; }
+
+.isp-font-footer-testo-2:before {
+  content: "\e099"; }
+
+.isp-font-footer-testo-3:before {
+  content: "\e09a"; }
+
+.isp-font-ops-abbonamentotrasporti:before {
+  content: "\e09b"; }
+
+.isp-font-ops-c-abbonamentotrasporti-n:before {
+  content: "\e09c"; }
+
+.isp-font-ops-c-abbonamentotrasporti-s:before {
+  content: "\e09d"; }
+
+.isp-font-ops-attivacartaservizi:before {
+  content: "\e09e"; }
+
+.isp-font-ops-c-attivacartaservizi-n:before {
+  content: "\e09f"; }
+
+.isp-font-ops-c-attivacartaservizi-s:before {
+  content: "\e0a0"; }
+
+.isp-font-ops-ricaricacarta:before {
+  content: "\e0a1"; }
+
+.isp-font-ops-c-ricaricacarta-n:before {
+  content: "\e0a2"; }
+
+.isp-font-ops-c-ricaricacarta-s:before {
+  content: "\e0a3"; }
+
+.isp-font-ops-ricaricacartatv:before {
+  content: "\e0a4"; }
+
+.isp-font-ops-c-ricaricacartatv-n:before {
+  content: "\e0a5"; }
+
+.isp-font-ops-c-ricaricacartatv-s:before {
+  content: "\e0a6"; }
+
+.isp-font-ops-ricaricacellulare:before {
+  content: "\e0a7"; }
+
+.isp-font-ops-c-ricaricacellulare-n:before {
+  content: "\e0a8"; }
+
+.isp-font-ops-c-ricaricacellulare-s:before {
+  content: "\e0a9"; }
+
+.isp-font-menu-help:before {
+  content: "\e0aa"; }
+
+.isp-font-comuni-esito-face-ok:before {
+  content: "\e0ab"; }
+
+.isp-font-comuni-esito-face-ko:before {
+  content: "\e0ac"; }
+
+.isp-font-comuni-c-sliderhandle-n:before {
+  content: "\e0ad"; }
+
+.isp-font-comuni-c-sliderhandle-s:before {
+  content: "\e0ae"; }
+
+.isp-font-pfm-isp-font-cross-005-facegood:before {
+  content: "\e0af"; }
+
+.isp-font-pfm-isp-font-cross-007-facestrange:before {
+  content: "\e0b0"; }
+
+.isp-font-pfm-isp-font-cross-006-faceneutral:before {
+  content: "\e0b1"; }
+
+.isp-font-pfm-isp-font-cross-004-facebad:before {
+  content: "\e0b2"; }
+
+.isp-font-pfm-isp-font-cross-001-esitook:before {
+  content: "\e0b3"; }
+
+.isp-font-pfm-isp-font-cross-026-cancellaobiettivo:before {
+  content: "\e0b4"; }
+
+.isp-font-pfm-isp-font-cat-817:before {
+  content: "\e0b5"; }
+
+.isp-font-pfm-isp-font-cat-631:before {
+  content: "\e0b6"; }
+
+.isp-font-pfm-isp-font-cross-002-matita:before {
+  content: "\e0b7"; }
+
+.isp-font-pfm-isp-font-cross-003-matitamodifica:before {
+  content: "\e0b8"; }
+
+.isp-font-pfm-isp-font-cross-009-aggiungigruppo:before {
+  content: "\e0b9"; }
+
+.isp-font-pfm-isp-font-cross-025-aggiungiobiettivo:before {
+  content: "\e0ba"; }
+
+.isp-font-pfm-isp-font-cross-014-aggiungicategoria:before {
+  content: "\e0bb"; }
+
+.isp-font-pfm-isp-font-cross-010-chiaveinglese:before {
+  content: "\e0bc"; }
+
+.isp-font-pfm-isp-font-cross-008-cronometro:before {
+  content: "\e0bd"; }
+
+.isp-font-pfm-isp-font-cross-011-sliderhandle:before {
+  content: "\e0be"; }
+
+.isp-font-pfm-isp-font-cross-018-clessidra:before {
+  content: "\e0bf"; }
+
+.isp-font-pfm-isp-font-cross-031-slidercontrol:before {
+  content: "\e0c0"; }
+
+.isp-font-pfm-isp-font-cross-032-slidercontrolb:before {
+  content: "\e0c1"; }
+
+.isp-font-pfm-isp-font-cross-028-salvadanaiovuoto:before {
+  content: "\e0c2"; }
+
+.isp-font-pfm-isp-font-cross-029-salvadanaiopieno:before {
+  content: "\e0c3"; }
+
+.isp-font-pfm-isp-font-cross-030-salvadanaiometa:before {
+  content: "\e0c4"; }
+
+.isp-font-pfm-isp-font-cross-027-omino:before {
+  content: "\e0c5"; }
+
+.isp-font-pfm-isp-font-cross-019-contoselezionato:before {
+  content: "\e0c6"; }
+
+.isp-font-pfm-isp-font-cross-016-carteselezionate:before {
+  content: "\e0c7"; }
+
+.isp-font-pfm-isp-font-cross-024-nomovimenti:before {
+  content: "\e0c8"; }
+
+.isp-font-pfm-isp-font-cross-015-associacategoria:before {
+  content: "\e0c9"; }
+
+.isp-font-pfm-isp-font-cross-012-paccoregalo:before {
+  content: "\e0ca"; }
+
+.isp-font-pfm-isp-font-cross-013-operazioniimporto:before {
+  content: "\e0cb"; }
+
+.isp-font-pfm-isp-font-cross-017-bacchettamagica:before {
+  content: "\e0cc"; }
+
+.isp-font-pfm-isp-font-cross-020-etichetta:before {
+  content: "\e0cd"; }
+
+.isp-font-pfm-isp-font-cross-021-limitispesa:before {
+  content: "\e0ce"; }
+
+.isp-font-pfm-isp-font-cross-022-marchi:before {
+  content: "\e0cf"; }
+
+.isp-font-pfm-isp-font-cross-023-migliorauscite:before {
+  content: "\e0d0"; }
+
+.isp-font-pfm-isp-font-cross-033-spesealte:before {
+  content: "\e0d1"; }
+
+.isp-font-pfm-isp-font-cross-034-suggerimento:before {
+  content: "\e0d2"; }
+
+.isp-font-pfm-isp-font-cross-035-togglegraficoquadri:before {
+  content: "\e0d3"; }
+
+.isp-font-pfm-isp-font-cross-036-togglegraficotorta:before {
+  content: "\e0d4"; }
+
+.isp-font-pfm-isp-font-cross-037-toggleistogramma:before {
+  content: "\e0d5"; }
+
+.isp-font-pfm-isp-font-cross-038-toggleistogrammi:before {
+  content: "\e0d6"; }
+
+.isp-font-pfm-isp-font-cross-039-ricordamidi:before {
+  content: "\e0d7"; }
+
+.isp-font-pfm-isp-font-cat-001:before {
+  content: "\e0d8"; }
+
+.isp-font-question-shield:before {
+  content: "\e0d9"; }
+
+.isp-font-geocontrol-cerchio:before {
+  content: "\e0da"; }
+
+.isp-font-pfm-isp-font-cat-004:before {
+  content: "\e0db"; }
+
+.isp-font-pfm-isp-font-cat-013:before {
+  content: "\e0dc"; }
+
+.isp-font-pfm-isp-font-cat-014:before {
+  content: "\e0dd"; }
+
+.isp-font-pfm-isp-font-cat-016:before {
+  content: "\e0de"; }
+
+.isp-font-pfm-isp-font-cat-017:before {
+  content: "\e0df"; }
+
+.isp-font-pfm-isp-font-cat-018:before {
+  content: "\e0e0"; }
+
+.isp-font-pfm-isp-font-cat-019:before {
+  content: "\e0e1"; }
+
+.isp-font-pfm-isp-font-cat-020:before {
+  content: "\e0e2"; }
+
+.isp-font-pfm-isp-font-cat-021:before {
+  content: "\e0e3"; }
+
+.isp-font-pfm-isp-font-cat-023:before {
+  content: "\e0e4"; }
+
+.isp-font-pfm-isp-font-cat-027:before {
+  content: "\e0e5"; }
+
+.isp-font-pfm-isp-font-cat-028:before {
+  content: "\e0e6"; }
+
+.isp-font-pfm-isp-font-cat-029:before {
+  content: "\e0e7"; }
+
+.isp-font-pfm-isp-font-cat-032:before {
+  content: "\e0e8"; }
+
+.isp-font-pfm-isp-font-cat-033:before {
+  content: "\e0e9"; }
+
+.isp-font-pfm-isp-font-cat-035:before {
+  content: "\e0ea"; }
+
+.isp-font-pfm-isp-font-cat-036:before {
+  content: "\e0eb"; }
+
+.isp-font-pfm-isp-font-cat-037:before {
+  content: "\e0ec"; }
+
+.isp-font-pfm-isp-font-cat-040:before {
+  content: "\e0ed"; }
+
+.isp-font-pfm-isp-font-cat-041:before {
+  content: "\e0ee"; }
+
+.isp-font-pfm-isp-font-cat-048:before {
+  content: "\e0ef"; }
+
+.isp-font-pfm-isp-font-cat-049:before {
+  content: "\e0f0"; }
+
+.isp-font-pfm-isp-font-cat-051:before {
+  content: "\e0f1"; }
+
+.isp-font-pfm-isp-font-cat-052:before {
+  content: "\e0f2"; }
+
+.isp-font-pfm-isp-font-cat-054:before {
+  content: "\e0f3"; }
+
+.isp-font-pfm-isp-font-cat-055:before {
+  content: "\e0f4"; }
+
+.isp-font-pfm-isp-font-cat-065:before {
+  content: "\e0f5"; }
+
+.isp-font-pfm-isp-font-cat-066:before {
+  content: "\e0f6"; }
+
+.isp-font-pfm-isp-font-cat-069:before {
+  content: "\e0f7"; }
+
+.isp-font-pfm-isp-font-cat-070:before {
+  content: "\e0f8"; }
+
+.isp-font-pfm-isp-font-cat-072:before {
+  content: "\e0f9"; }
+
+.isp-font-pfm-isp-font-cat-075:before {
+  content: "\e0fa"; }
+
+.isp-font-pfm-isp-font-cat-076:before {
+  content: "\e0fb"; }
+
+.isp-font-pfm-isp-font-cat-078:before {
+  content: "\e0fc"; }
+
+.isp-font-pfm-isp-font-cat-079:before {
+  content: "\e0fd"; }
+
+.isp-font-pfm-isp-font-cat-082:before {
+  content: "\e0fe"; }
+
+.isp-font-pfm-isp-font-cat-084:before {
+  content: "\e0ff"; }
+
+.isp-font-pfm-isp-font-cat-086:before {
+  content: "\e100"; }
+
+.isp-font-pfm-isp-font-cat-088:before {
+  content: "\e101"; }
+
+.isp-font-pfm-isp-font-cat-090:before {
+  content: "\e102"; }
+
+.isp-font-pfm-isp-font-cat-096:before {
+  content: "\e103"; }
+
+.isp-font-pfm-isp-font-cat-097:before {
+  content: "\e104"; }
+
+.isp-font-pfm-isp-font-cat-098:before {
+  content: "\e105"; }
+
+.isp-font-pfm-isp-font-cat-101:before {
+  content: "\e106"; }
+
+.isp-font-pfm-isp-font-cat-105:before {
+  content: "\e107"; }
+
+.isp-font-pfm-isp-font-cat-106:before {
+  content: "\e108"; }
+
+.isp-font-pfm-isp-font-cat-112:before {
+  content: "\e109"; }
+
+.isp-font-pfm-isp-font-cat-113:before {
+  content: "\e10a"; }
+
+.isp-font-pfm-isp-font-cat-115:before {
+  content: "\e10b"; }
+
+.isp-font-pfm-isp-font-cat-116:before {
+  content: "\e10c"; }
+
+.isp-font-chiave-inglese:before {
+  content: "\e10d"; }
+
+.isp-font-pfm-isp-font-cat-126:before {
+  content: "\e10e"; }
+
+.isp-font-pfm-isp-font-cat-138:before {
+  content: "\e10f"; }
+
+.isp-font-pfm-isp-font-cat-142:before {
+  content: "\e110"; }
+
+.isp-font-pfm-isp-font-cat-145:before {
+  content: "\e111"; }
+
+.isp-font-pfm-isp-font-cat-195:before {
+  content: "\e112"; }
+
+.isp-font-pfm-isp-font-cat-216:before {
+  content: "\e113"; }
+
+.isp-font-pfm-isp-font-cat-258:before {
+  content: "\e114"; }
+
+.isp-font-pfm-isp-font-cat-259:before {
+  content: "\e115"; }
+
+.isp-font-pfm-isp-font-cat-283:before {
+  content: "\e116"; }
+
+.isp-font-pfm-isp-font-cat-288:before {
+  content: "\e117"; }
+
+.isp-font-pfm-isp-font-cat-2922:before {
+  content: "\e118"; }
+
+.isp-font-pfm-isp-font-cat-298:before {
+  content: "\e119"; }
+
+.isp-font-pfm-isp-font-cat-302:before {
+  content: "\e11a"; }
+
+.isp-font-pfm-isp-font-cat-307:before {
+  content: "\e11b"; }
+
+.isp-font-pfm-isp-font-cat-313:before {
+  content: "\e11c"; }
+
+.isp-font-pfm-isp-font-cat-315:before {
+  content: "\e11d"; }
+
+.isp-font-pfm-isp-font-cat-317:before {
+  content: "\e11e"; }
+
+.isp-font-pfm-isp-font-cat-321:before {
+  content: "\e11f"; }
+
+.isp-font-pfm-isp-font-cat-322:before {
+  content: "\e120"; }
+
+.isp-font-pfm-isp-font-cat-324:before {
+  content: "\e121"; }
+
+.isp-font-pfm-isp-font-cat-327:before {
+  content: "\e122"; }
+
+.isp-font-pfm-isp-font-cat-328:before {
+  content: "\e123"; }
+
+.isp-font-pfm-isp-font-cat-329:before {
+  content: "\e124"; }
+
+.isp-font-pfm-isp-font-cat-500:before {
+  content: "\e125"; }
+
+.isp-font-pfm-isp-font-cat-501:before {
+  content: "\e126"; }
+
+.isp-font-pfm-isp-font-cat-502:before {
+  content: "\e127"; }
+
+.isp-font-pfm-isp-font-cat-503:before {
+  content: "\e128"; }
+
+.isp-font-pfm-isp-font-cat-601:before {
+  content: "\e129"; }
+
+.isp-font-pfm-isp-font-cat-602:before {
+  content: "\e12a"; }
+
+.isp-font-pfm-isp-font-cat-603:before {
+  content: "\e12b"; }
+
+.isp-font-pfm-isp-font-cat-604:before {
+  content: "\e12c"; }
+
+.isp-font-pfm-isp-font-cat-605:before {
+  content: "\e12d"; }
+
+.isp-font-pfm-isp-font-cat-606:before {
+  content: "\e12e"; }
+
+.isp-font-pfm-isp-font-cat-607:before {
+  content: "\e12f"; }
+
+.isp-font-pfm-isp-font-cat-608:before {
+  content: "\e130"; }
+
+.isp-font-pfm-isp-font-cat-609:before {
+  content: "\e131"; }
+
+.isp-font-pfm-isp-font-cat-610:before {
+  content: "\e132"; }
+
+.isp-font-pfm-isp-font-cat-611:before {
+  content: "\e133"; }
+
+.isp-font-pfm-isp-font-cat-612:before {
+  content: "\e134"; }
+
+.isp-font-pfm-isp-font-cat-613:before {
+  content: "\e135"; }
+
+.isp-font-pfm-isp-font-cat-614:before {
+  content: "\e136"; }
+
+.isp-font-pfm-isp-font-cat-615:before {
+  content: "\e137"; }
+
+.isp-font-pfm-isp-font-cat-616:before {
+  content: "\e138"; }
+
+.isp-font-pfm-isp-font-cat-617:before {
+  content: "\e139"; }
+
+.isp-font-pfm-isp-font-cat-618:before {
+  content: "\e13a"; }
+
+.isp-font-pfm-isp-font-cat-619:before {
+  content: "\e13b"; }
+
+.isp-font-pfm-isp-font-cat-620:before {
+  content: "\e13c"; }
+
+.isp-font-pfm-isp-font-cat-621:before {
+  content: "\e13d"; }
+
+.isp-font-pfm-isp-font-cat-622:before {
+  content: "\e13e"; }
+
+.isp-font-pfm-isp-font-cat-623:before {
+  content: "\e13f"; }
+
+.isp-font-pfm-isp-font-cat-624:before {
+  content: "\e140"; }
+
+.isp-font-pfm-isp-font-cat-625:before {
+  content: "\e141"; }
+
+.isp-font-pfm-isp-font-cat-626:before {
+  content: "\e142"; }
+
+.isp-font-pfm-isp-font-cat-627:before {
+  content: "\e143"; }
+
+.isp-font-pfm-isp-font-cat-628:before {
+  content: "\e144"; }
+
+.isp-font-pfm-isp-font-cat-629:before {
+  content: "\e145"; }
+
+.isp-font-pfm-isp-font-cat-630:before {
+  content: "\e146"; }
+
+.isp-font-pfm-isp-font-cross-040-rubricaimportaesitook:before {
+  content: "\e147"; }
+
+.isp-font-pfm-isp-font-cat-632:before {
+  content: "\e148"; }
+
+.isp-font-pfm-isp-font-cat-633:before {
+  content: "\e149"; }
+
+.isp-font-pfm-isp-font-cat-634:before {
+  content: "\e14a"; }
+
+.isp-font-pfm-isp-font-cat-635:before {
+  content: "\e14b"; }
+
+.isp-font-pfm-isp-font-cat-636:before {
+  content: "\e14c"; }
+
+.isp-font-pfm-isp-font-cat-637:before {
+  content: "\e14d"; }
+
+.isp-font-pfm-isp-font-cat-638:before {
+  content: "\e14e"; }
+
+.isp-font-pfm-isp-font-cat-639:before {
+  content: "\e14f"; }
+
+.isp-font-pfm-isp-font-cat-640:before {
+  content: "\e150"; }
+
+.isp-font-pfm-isp-font-cat-641:before {
+  content: "\e151"; }
+
+.isp-font-pfm-isp-font-cat-642:before {
+  content: "\e152"; }
+
+.isp-font-pfm-isp-font-cat-643:before {
+  content: "\e153"; }
+
+.isp-font-pfm-isp-font-cat-644:before {
+  content: "\e154"; }
+
+.isp-font-pfm-isp-font-cat-645:before {
+  content: "\e155"; }
+
+.isp-font-pfm-isp-font-cat-646:before {
+  content: "\e156"; }
+
+.isp-font-pfm-isp-font-cat-647:before {
+  content: "\e157"; }
+
+.isp-font-pfm-isp-font-cat-648:before {
+  content: "\e158"; }
+
+.isp-font-pfm-isp-font-cat-649:before {
+  content: "\e159"; }
+
+.isp-font-pfm-isp-font-cat-650:before {
+  content: "\e15a"; }
+
+.isp-font-pfm-isp-font-cat-651:before {
+  content: "\e15b"; }
+
+.isp-font-pfm-isp-font-cat-652:before {
+  content: "\e15c"; }
+
+.isp-font-pfm-isp-font-cat-653:before {
+  content: "\e15d"; }
+
+.isp-font-pfm-isp-font-cat-654:before {
+  content: "\e15e"; }
+
+.isp-font-pfm-isp-font-cat-655:before {
+  content: "\e15f"; }
+
+.isp-font-pfm-isp-font-cat-656:before {
+  content: "\e160"; }
+
+.isp-font-pfm-isp-font-cat-657:before {
+  content: "\e161"; }
+
+.isp-font-pfm-isp-font-cat-658:before {
+  content: "\e162"; }
+
+.isp-font-pfm-isp-font-cat-659:before {
+  content: "\e163"; }
+
+.isp-font-pfm-isp-font-cat-660:before {
+  content: "\e164"; }
+
+.isp-font-pfm-isp-font-cat-661:before {
+  content: "\e165"; }
+
+.isp-font-pfm-isp-font-cat-662:before {
+  content: "\e166"; }
+
+.isp-font-pfm-isp-font-cat-663:before {
+  content: "\e167"; }
+
+.isp-font-pfm-isp-font-cat-664:before {
+  content: "\e168"; }
+
+.isp-font-pfm-isp-font-cat-665:before {
+  content: "\e169"; }
+
+.isp-font-pfm-isp-font-cat-666:before {
+  content: "\e16a"; }
+
+.isp-font-pfm-isp-font-cat-667:before {
+  content: "\e16b"; }
+
+.isp-font-pfm-isp-font-cat-668:before {
+  content: "\e16c"; }
+
+.isp-font-pfm-isp-font-cat-669:before {
+  content: "\e16d"; }
+
+.isp-font-pfm-isp-font-cat-670:before {
+  content: "\e16e"; }
+
+.isp-font-pfm-isp-font-cat-671:before {
+  content: "\e16f"; }
+
+.isp-font-pfm-isp-font-cat-672:before {
+  content: "\e170"; }
+
+.isp-font-pfm-isp-font-cat-673:before {
+  content: "\e171"; }
+
+.isp-font-pfm-isp-font-cat-674:before {
+  content: "\e172"; }
+
+.isp-font-pfm-isp-font-cat-675:before {
+  content: "\e173"; }
+
+.isp-font-pfm-isp-font-cat-676:before {
+  content: "\e174"; }
+
+.isp-font-pfm-isp-font-cat-677:before {
+  content: "\e175"; }
+
+.isp-font-pfm-isp-font-cat-678:before {
+  content: "\e176"; }
+
+.isp-font-pfm-isp-font-cat-679:before {
+  content: "\e177"; }
+
+.isp-font-pfm-isp-font-cat-680:before {
+  content: "\e178"; }
+
+.isp-font-pfm-isp-font-cat-681:before {
+  content: "\e179"; }
+
+.isp-font-pfm-isp-font-cat-682:before {
+  content: "\e17a"; }
+
+.isp-font-pfm-isp-font-cat-683:before {
+  content: "\e17b"; }
+
+.isp-font-pfm-isp-font-cat-684:before {
+  content: "\e17c"; }
+
+.isp-font-pfm-isp-font-cat-685:before {
+  content: "\e17d"; }
+
+.isp-font-pfm-isp-font-cat-686:before {
+  content: "\e17e"; }
+
+.isp-font-pfm-isp-font-cat-687:before {
+  content: "\e17f"; }
+
+.isp-font-pfm-isp-font-cat-688:before {
+  content: "\e180"; }
+
+.isp-font-pfm-isp-font-cat-689:before {
+  content: "\e181"; }
+
+.isp-font-pfm-isp-font-cat-690:before {
+  content: "\e182"; }
+
+.isp-font-pfm-isp-font-cat-691:before {
+  content: "\e183"; }
+
+.isp-font-pfm-isp-font-cat-692:before {
+  content: "\e184"; }
+
+.isp-font-pfm-isp-font-cat-693:before {
+  content: "\e185"; }
+
+.isp-font-pfm-isp-font-cat-694:before {
+  content: "\e186"; }
+
+.isp-font-pfm-isp-font-cat-695:before {
+  content: "\e187"; }
+
+.isp-font-pfm-isp-font-cat-696:before {
+  content: "\e188"; }
+
+.isp-font-pfm-isp-font-cat-697:before {
+  content: "\e189"; }
+
+.isp-font-pfm-isp-font-cat-698:before {
+  content: "\e18a"; }
+
+.isp-font-pfm-isp-font-cat-699:before {
+  content: "\e18b"; }
+
+.isp-font-pfm-isp-font-cat-700:before {
+  content: "\e18c"; }
+
+.isp-font-pfm-isp-font-cat-701:before {
+  content: "\e18d"; }
+
+.isp-font-pfm-isp-font-cat-702:before {
+  content: "\e18e"; }
+
+.isp-font-pfm-isp-font-cat-703:before {
+  content: "\e18f"; }
+
+.isp-font-pfm-isp-font-cat-704:before {
+  content: "\e190"; }
+
+.isp-font-pfm-isp-font-cat-705:before {
+  content: "\e191"; }
+
+.isp-font-pfm-isp-font-cat-706:before {
+  content: "\e192"; }
+
+.isp-font-pfm-isp-font-cat-707:before {
+  content: "\e193"; }
+
+.isp-font-pfm-isp-font-cat-708:before {
+  content: "\e194"; }
+
+.isp-font-azioni-c-sospendi-n:before {
+  content: "\e195"; }
+
+.isp-font-azioni-c-sospendi-s:before {
+  content: "\e196"; }
+
+.isp-font-azioni-c-sostituisci-n:before {
+  content: "\e197"; }
+
+.isp-font-azioni-elimina-cestino:before {
+  content: "\e198"; }
+
+.isp-font-azioni-c-sostituisci-s:before {
+  content: "\e199"; }
+
+.isp-font-azioni-c-modificarid-s:before {
+  content: "\e19a"; }
+
+.isp-font-login-freccia-dx:before {
+  content: "\e19b"; }
+
+.isp-font-prestiti-attivazionemicrocredito:before {
+  content: "\e19c"; }
+
+.isp-font-comuni-c-share-n:before {
+  content: "\e19d"; }
+
+.isp-font-comuni-c-share-s:before {
+  content: "\e19e"; }
+
+.isp-font-ops-domiciliazioni:before {
+  content: "\e19f"; }
+
+.isp-font-ops-c-domiciliazioni-n:before {
+  content: "\e1a0"; }
+
+.isp-font-ops-c-domiciliazioni-s:before {
+  content: "\e1a1"; }
+
+.isp-font-comuni-ultimi30giorni:before {
+  content: "\e1a2"; }
+
+.isp-font-comuni-ultimi60giorni:before {
+  content: "\e1a3"; }
+
+.isp-font-comuni-ultimi90giorni:before {
+  content: "\e1a4"; }
+
+.isp-font-comuni-periodopersonalizzato:before {
+  content: "\e1a5"; }
+
+.isp-font-azioni-c-rimborsa-n:before {
+  content: "\e1a6"; }
+
+.isp-font-azioni-c-revoca-s:before {
+  content: "\e1a7"; }
+
+.isp-font-azioni-c-revoca-n:before {
+  content: "\e1a8"; }
+
+.isp-font-comuni-bottonemeno:before {
+  content: "\e1a9"; }
+
+.isp-font-comuni-bottonepiu:before {
+  content: "\e1aa"; }
+
+.isp-font-cf-face-good-n:before {
+  content: "\e1ab"; }
+
+.isp-font-cf-face-good-s:before {
+  content: "\e1ac"; }
+
+.isp-font-cf-face-neutral-n:before {
+  content: "\e1ad"; }
+
+.isp-font-cf-face-neutral-s:before {
+  content: "\e1ae"; }
+
+.isp-font-cf-face-bad-n:before {
+  content: "\e1af"; }
+
+.isp-font-cf-face-bad-s:before {
+  content: "\e1b0"; }
+
+.isp-font-cf-rating-n:before {
+  content: "\e1b1"; }
+
+.isp-font-cf-rating-s:before {
+  content: "\e1b2"; }
+
+.isp-font-cf-step-n:before {
+  content: "\e1b3"; }
+
+.isp-font-cf-step-s:before {
+  content: "\e1b4"; }
+
+.isp-font-azioni-c-respingi-s:before {
+  content: "\e1b5"; }
+
+.isp-font-azioni-c-respingi-n:before {
+  content: "\e1b6"; }
+
+.isp-font-comuni-campanella:before {
+  content: "\e1b7"; }
+
+.isp-font-comuni-c-campanella-n:before {
+  content: "\e1b8"; }
+
+.isp-font-comuni-c-campanella-s:before {
+  content: "\e1b9"; }
+
+.isp-font-azioni-c-rendiricorrente-s:before {
+  content: "\e1ba"; }
+
+.isp-font-azioni-c-rendiricorrente-n:before {
+  content: "\e1bb"; }
+
+.isp-font-azioni-c-pagaora-s:before {
+  content: "\e1bc"; }
+
+.isp-font-azioni-c-pagaora-n:before {
+  content: "\e1bd"; }
+
+.isp-font-azioni-c-negozia-s:before {
+  content: "\e1be"; }
+
+.isp-font-azioni-c-negozia-n:before {
+  content: "\e1bf"; }
+
+.isp-font-azioni-elimina:before {
+  content: "\e1c0"; }
+
+.isp-font-comuni-foto:before {
+  content: "\e1c1"; }
+
+.isp-font-comuni-c-foto-n:before {
+  content: "\e1c2"; }
+
+.isp-font-comuni-c-foto-s:before {
+  content: "\e1c3"; }
+
+.isp-font-comuni-aprifinestra:before {
+  content: "\e1c4"; }
+
+.isp-font-comuni-comprimi:before {
+  content: "\e1c5"; }
+
+.isp-font-comuni-espandi:before {
+  content: "\e1c6"; }
+
+.isp-font-comuni-riduciicona:before {
+  content: "\e1c7"; }
+
+.isp-font-comuni-zoom:before {
+  content: "\e1c8"; }
+
+.isp-font-ops-visualizza-modulo:before {
+  content: "\e1c9"; }
+
+.isp-font-mioprofilo-carta:before {
+  content: "\e1ca"; }
+
+.isp-font-mioprofilo-c-carta-n:before {
+  content: "\e1cb"; }
+
+.isp-font-mioprofilo-c-carta-s:before {
+  content: "\e1cc"; }
+
+.isp-font-mioprofilo-conto:before {
+  content: "\e1cd"; }
+
+.isp-font-mioprofilo-c-conto-n:before {
+  content: "\e1ce"; }
+
+.isp-font-mioprofilo-c-conto-s:before {
+  content: "\e1cf"; }
+
+.isp-font-mioprofilo-newsletter:before {
+  content: "\e1d0"; }
+
+.isp-font-mioprofilo-c-newsletter-n:before {
+  content: "\e1d1"; }
+
+.isp-font-mioprofilo-c-newsletter-s:before {
+  content: "\e1d2"; }
+
+.isp-font-mioprofilo-tutorial:before {
+  content: "\e1d3"; }
+
+.isp-font-mioprofilo-c-tutorial-n:before {
+  content: "\e1d4"; }
+
+.isp-font-mioprofilo-c-tutorial-s:before {
+  content: "\e1d5"; }
+
+.isp-font-mioprofilo-deposito:before {
+  content: "\e1d6"; }
+
+.isp-font-mioprofilo-c-deposito-n:before {
+  content: "\e1d7"; }
+
+.isp-font-mioprofilo-c-deposito-s:before {
+  content: "\e1d8"; }
+
+.isp-font-mioprofilo-cellcontrollo:before {
+  content: "\e1d9"; }
+
+.isp-font-mioprofilo-cellverificato2:before {
+  content: "\e1da"; }
+
+.isp-font-mioprofilo-mailverificata:before {
+  content: "\e1db"; }
+
+.isp-font-mioprofilo-okey:before {
+  content: "\e1dc"; }
+
+.isp-font-mioprofilo-firmaelettronica:before {
+  content: "\e1dd"; }
+
+.isp-font-mioprofilo-pin:before {
+  content: "\e1de"; }
+
+.isp-font-mioprofilo-impostazioniokey:before {
+  content: "\e1df"; }
+
+.isp-font-mioprofilo-gestionelimiti:before {
+  content: "\e1e0"; }
+
+.isp-font-mioprofilo-sicurezzapagamenti:before {
+  content: "\e1e1"; }
+
+.isp-font-mioprofilo-transazioni:before {
+  content: "\e1e2"; }
+
+.isp-font-mioprofilo-borseabilitate:before {
+  content: "\e1e3"; }
+
+.isp-font-comuni-c-casa-affitto-n:before {
+  content: "\e1e4"; }
+
+.isp-font-comuni-c-extra-trasporti-lavaggio-auto-n:before {
+  content: "\e1e5"; }
+
+.isp-font-comuni-c-tempolibero-ristoranti-bar-n:before {
+  content: "\e1e6"; }
+
+.isp-font-comuni-c-trasporti-trasporti-pubblici-taxi-noleggio-n:before {
+  content: "\e1e7"; }
+
+.isp-font-comuni-casa-tv-internet-telefono:before {
+  content: "\e1e8"; }
+
+.isp-font-comuni-extra-altro-spese-documenti:before {
+  content: "\e1e9"; }
+
+.isp-font-comuni-iofamiglia-telefono-cellulare:before {
+  content: "\e1ea"; }
+
+.isp-font-carte-duplica:before {
+  content: "\e1eb"; }
+
+.isp-font-carte-bloccosblocco:before {
+  content: "\e1ec"; }
+
+.isp-font-carte-carteaggiuntive:before {
+  content: "\e1ed"; }
+
+.isp-font-carte-ricaricacarta:before {
+  content: "\e1ee"; }
+
+.isp-font-carte-movepay:before {
+  content: "\e1ef"; }
+
+.isp-font-carte-modificaindirizzo:before {
+  content: "\e1f0"; }
+
+.isp-font-carte-ristampapin:before {
+  content: "\e1f1"; }
+
+.isp-font-carte-variazionelimitiutilizzo:before {
+  content: "\e1f2"; }
+
+.isp-font-carte-lamiapassword:before {
+  content: "\e1f3"; }
+
+.isp-font-carte-sblocca:before {
+  content: "\e1f4"; }
+
+.isp-font-carte-ar:before {
+  content: "\e1f5"; }
+
+.isp-font-carte-c-attesa-n:before {
+  content: "\e1f6"; }
+
+.isp-font-carte-cartevirtuali:before {
+  content: "\e1f7"; }
+
+.isp-font-carte-geocontrol:before {
+  content: "\e1f8"; }
+
+.isp-font-carte-masterpass:before {
+  content: "\e1f9"; }
+
+.isp-font-carte-modificapin:before {
+  content: "\e1fa"; }
+
+.isp-font-carte-nfc:before {
+  content: "\e1fb"; }
+
+.isp-font-carte-rendicontazione:before {
+  content: "\e1fc"; }
+
+.isp-font-carte-smsalert:before {
+  content: "\e1fd"; }
+
+.isp-font-conti-assegni-attiva:before {
+  content: "\e1fe"; }
+
+.isp-font-conti-assegni-daattivare:before {
+  content: "\e1ff"; }
+
+.isp-font-conti-assegni-librettoattivo:before {
+  content: "\e200"; }
+
+.isp-font-conti-assegni-librettorichiesto:before {
+  content: "\e201"; }
+
+.isp-font-conti-bdr-estinzioneanticipata:before {
+  content: "\e202"; }
+
+.isp-font-conti-prestitointasca:before {
+  content: "\e203"; }
+
+.isp-font-conti-abilitazioni:before {
+  content: "\e204"; }
+
+.isp-font-conti-buonirisparmio:before {
+  content: "\e205"; }
+
+.isp-font-conti-rol:before {
+  content: "\e206"; }
+
+.isp-font-conti-jiffy:before {
+  content: "\e207"; }
+
+.isp-font-conti-smsalert:before {
+  content: "\e208"; }
+
+.isp-font-ops-bollettinolibero:before {
+  content: "\e209"; }
+
+.isp-font-ops-s-bollettinolibero-n:before {
+  content: "\e20a"; }
+
+.isp-font-ops-c-bollettinolibero-s:before {
+  content: "\e20b"; }
+
+.isp-font-ops-bollettinopremarcato:before {
+  content: "\e20c"; }
+
+.isp-font-ops-c-bollettinopremarcato-n:before {
+  content: "\e20d"; }
+
+.isp-font-ops-c-bollettinopremarcato-s:before {
+  content: "\e20e"; }
+
+.isp-font-ops-buoniinps:before {
+  content: "\e20f"; }
+
+.isp-font-ops-c-buoniinps-n:before {
+  content: "\e210"; }
+
+.isp-font-ops-c-buoniinps-s:before {
+  content: "\e211"; }
+
+.isp-font-ops-riba:before {
+  content: "\e212"; }
+
+.isp-font-ops-c-riba-n:before {
+  content: "\e213"; }
+
+.isp-font-ops-c-riba-s:before {
+  content: "\e214"; }
+
+.isp-font-ops-cbill:before {
+  content: "\e215"; }
+
+.isp-font-ops-c-cbill-n:before {
+  content: "\e216"; }
+
+.isp-font-ops-c-cbill-s:before {
+  content: "\e217"; }
+
+.isp-font-ops-mavrav:before {
+  content: "\e218"; }
+
+.isp-font-ops-c-mavrav-n:before {
+  content: "\e219"; }
+
+.isp-font-ops-c-mavrav-s:before {
+  content: "\e21a"; }
+
+.isp-font-ops-multe:before {
+  content: "\e21b"; }
+
+.isp-font-ops-c-multe-n:before {
+  content: "\e21c"; }
+
+.isp-font-ops-c-multe-s:before {
+  content: "\e21d"; }
+
+.isp-font-menu-accumuloeprevidenza:before {
+  content: "\e21e"; }
+
+.isp-font-comuni-c-aggiungi-n:before {
+  content: "\e21f"; }
+
+.isp-font-comuni-c-aggiungi-s:before {
+  content: "\e220"; }
+
+.isp-font-ops-aziendaconvenzionata:before {
+  content: "\e221"; }
+
+.isp-font-ops-convezioni-intesasanpaolo:before {
+  content: "\e222"; }
+
+.isp-font-ops-convezioni-posteitaliane:before {
+  content: "\e223"; }
+
+.isp-font-rubrica-aggiungicontatto:before {
+  content: "\e224"; }
+
+.isp-font-rubrica-importacontatto:before {
+  content: "\e225"; }
+
+.isp-font-rubrica-uniscicontatto:before {
+  content: "\e226"; }
+
+.isp-font-azioni-c-elimina-s:before {
+  content: "\e227"; }
+
+.isp-font-azioni-c-gestioneregole-n:before {
+  content: "\e228"; }
+
+.isp-font-azioni-c-gestioneregole-s:before {
+  content: "\e229"; }
+
+.isp-font-azioni-c-impostazioni-n:before {
+  content: "\e22a"; }
+
+.isp-font-azioni-c-impostazioni-s:before {
+  content: "\e22b"; }
+
+.isp-font-azioni-c-modifica-matita-n:before {
+  content: "\e22c"; }
+
+.isp-font-azioni-c-modifica-matita-s:before {
+  content: "\e22d"; }
+
+.isp-font-comuni-freccia-down:before {
+  content: "\e22e"; }
+
+.isp-font-comuni-freccia-up:before {
+  content: "\e22f"; }
+
+.isp-font-comuni-datitemporeale:before {
+  content: "\e230"; }
+
+.isp-font-comuni-graficoavanzato:before {
+  content: "\e231"; }
+
+.isp-font-comuni-titolicollegati:before {
+  content: "\e232"; }
+
+.isp-font-comuni-asia:before {
+  content: "\e233"; }
+
+.isp-font-comuni-c-asia-s:before {
+  content: "\e234"; }
+
+.isp-font-vorrei-cerchio-miinteressa:before {
+  content: "\e235"; }
+
+.isp-font-comuni-c-europa-s:before {
+  content: "\e236"; }
+
+.isp-font-comuni-italia:before {
+  content: "\e237"; }
+
+.isp-font-comuni-c-italia-s:before {
+  content: "\e238"; }
+
+.isp-font-comuni-nordamerica:before {
+  content: "\e239"; }
+
+.isp-font-comuni-c-nordamerica-s:before {
+  content: "\e23a"; }
+
+.isp-font-comuni-gestionedispositivi:before {
+  content: "\e23b"; }
+
+.isp-font-comuni-c-gestionedispositivi-n:before {
+  content: "\e23c"; }
+
+.isp-font-comuni-c-gestionedispositivi-s:before {
+  content: "\e23d"; }
+
+.isp-font-archivio-propostagestore:before {
+  content: "\e23e"; }
+
+.isp-font-archivio-c-propostagestore-n:before {
+  content: "\e23f"; }
+
+.isp-font-archivio-c-propostagestore-s:before {
+  content: "\e240"; }
+
+.isp-font-parlacon-c-facebook-n:before {
+  content: "\e241"; }
+
+.isp-font-parlacon-c-facebook-s:before {
+  content: "\e242"; }
+
+.isp-font-parlacon-c-twitter-n:before {
+  content: "\e243"; }
+
+.isp-font-parlacon-c-twitter-s:before {
+  content: "\e244"; }
+
+.isp-font-parlacon-social:before {
+  content: "\e245"; }
+
+.isp-font-parlacon-operazioni-filiale:before {
+  content: "\e246"; }
+
+.isp-font-parlacon-ricerca-filiale:before {
+  content: "\e247"; }
+
+.isp-font-parlacon-appuntamento:before {
+  content: "\e248"; }
+
+.isp-font-parlacon-prenota-appuntamento:before {
+  content: "\e249"; }
+
+.isp-font-parlacon-doc-divisore:before {
+  content: "\e24a"; }
+
+.isp-font-parlacon-gestore-chat:before {
+  content: "\e24b"; }
+
+.isp-font-parlacon-chiudi:before {
+  content: "\e24c"; }
+
+.isp-font-parlacon-altri-modi:before {
+  content: "\e24d"; }
+
+.isp-font-parlacon-calcola-percorso:before {
+  content: "\e24e"; }
+
+.isp-font-parlacon-callme-back:before {
+  content: "\e24f"; }
+
+.isp-font-parlacon-chiama:before {
+  content: "\e250"; }
+
+.isp-font-parlacon-domande-frequenti:before {
+  content: "\e251"; }
+
+.isp-font-parlacon-galleggiante:before {
+  content: "\e252"; }
+
+.isp-font-parlacon-invia-messaggio:before {
+  content: "\e253"; }
+
+.isp-font-parlacon-invio:before {
+  content: "\e254"; }
+
+.isp-font-parlacon-navigatore:before {
+  content: "\e255"; }
+
+.isp-font-parlacon-navigazione-assistita:before {
+  content: "\e256"; }
+
+.isp-font-parlacon-nuovo-appuntamento:before {
+  content: "\e257"; }
+
+.isp-font-parlacon-nuovo-messaggio:before {
+  content: "\e258"; }
+
+.isp-font-parlacon-suggerimenti:before {
+  content: "\e259"; }
+
+.isp-font-parlacon-tutti-messaggi:before {
+  content: "\e25a"; }
+
+.isp-font-parlacon-videochiama:before {
+  content: "\e25b"; }
+
+.isp-font-comuni-pinmappa:before {
+  content: "\e25c"; }
+
+.isp-font-parlacon-suggerimenti-disattivata:before {
+  content: "\e25d"; }
+
+.isp-font-azioni-c-modifica-penna-n:before {
+  content: "\e25e"; }
+
+.isp-font-azioni-c-modifica-penna-s:before {
+  content: "\e25f"; }
+
+.isp-font-azioni-c-modificalimiti-n:before {
+  content: "\e260"; }
+
+.isp-font-azioni-c-modificalimiti-s:before {
+  content: "\e261"; }
+
+.isp-font-azioni-c-elimina-cestino-n:before {
+  content: "\e262"; }
+
+.isp-font-azioni-c-rimborsa-s:before {
+  content: "\e263"; }
+
+.isp-font-azioni-c-duplica-s:before {
+  content: "\e264"; }
+
+.isp-font-azioni-c-duplica-n:before {
+  content: "\e265"; }
+
+.isp-font-azioni-c-archivioaddebiti-n:before {
+  content: "\e266"; }
+
+.isp-font-azioni-c-archivioaddebiti-s:before {
+  content: "\e267"; }
+
+.isp-font-azioni-c-modificarid-n:before {
+  content: "\e268"; }
+
+.isp-font-azioni-c-confronta-s:before {
+  content: "\e269"; }
+
+.isp-font-azioni-c-confronta-n:before {
+  content: "\e26a"; }
+
+.isp-font-azioni-c-blocca-s:before {
+  content: "\e26b"; }
+
+.isp-font-azioni-c-blocca-n:before {
+  content: "\e26c"; }
+
+.isp-font-azioni-c-attivasospendi-s:before {
+  content: "\e26d"; }
+
+.isp-font-azioni-c-attivasospendi-n:before {
+  content: "\e26e"; }
+
+.isp-font-azioni-c-attiva-s:before {
+  content: "\e26f"; }
+
+.isp-font-comuni-toggle-list:before {
+  content: "\e270"; }
+
+.isp-font-global-disponibilita:before {
+  content: "\e271"; }
+
+.isp-font-parlacon-c-conticarte-n:before {
+  content: "\e272"; }
+
+.isp-font-parlacon-c-conticarte-s:before {
+  content: "\e273"; }
+
+.isp-font-parlacon-c-previdenza-n:before {
+  content: "\e274"; }
+
+.isp-font-parlacon-c-previdenza-s:before {
+  content: "\e275"; }
+
+.isp-font-comuni-toggle-map:before {
+  content: "\e276"; }
+
+.isp-font-perme-nascondi:before {
+  content: "\e277"; }
+
+.isp-font-perme-partner:before {
+  content: "\e278"; }
+
+.isp-font-perme-posizione-store:before {
+  content: "\e279"; }
+
+.isp-font-perme-riservato-soci:before {
+  content: "\e27a"; }
+
+.isp-font-perme-scadenza:before {
+  content: "\e27b"; }
+
+.isp-font-perme-website-link:before {
+  content: "\e27c"; }
+
+.isp-font-global-aggiungigruppo:before {
+  content: "\e27d"; }
+
+.isp-font-global-gruppo:before {
+  content: "\e27e"; }
+
+.isp-font-global-c-settings-n:before {
+  content: "\e27f"; }
+
+.isp-font-global-c-settings-s:before {
+  content: "\e280"; }
+
+.isp-font-azioni-c-attiva-n:before {
+  content: "\e281"; }
+
+.isp-font-azioni-aggiorna:before {
+  content: "\e282"; }
+
+.isp-font-azioni-aggiungiwatchlist:before {
+  content: "\e283"; }
+
+.isp-font-global-offerta:before {
+  content: "\e284"; }
+
+.isp-font-azioni-allega:before {
+  content: "\e285"; }
+
+.isp-font-azioni-attiva:before {
+  content: "\e286"; }
+
+.isp-font-azioni-attivasospendi:before {
+  content: "\e287"; }
+
+.isp-font-azioni-c-acquista-n:before {
+  content: "\e288"; }
+
+.isp-font-comuni-offertaincorso:before {
+  content: "\e289"; }
+
+.isp-font-vorrei-mykey:before {
+  content: "\e28a"; }
+
+.isp-font-vorrei-c-mykey-n:before {
+  content: "\e28b"; }
+
+.isp-font-vorrei-c-mykey-s:before {
+  content: "\e28c"; }
+
+.isp-font-ricordamidi-cerchio-promemoria:before {
+  content: "\e28d"; }
+
+.isp-font-ricordamidi-cerchio-promemoria-01:before {
+  content: "\e28e"; }
+
+.isp-font-ricordamidi-promemoria:before {
+  content: "\e28f"; }
+
+.isp-font-ricordamidi-c-promemoria-n:before {
+  content: "\e290"; }
+
+.isp-font-ricordamidi-c-promemoria-s:before {
+  content: "\e291"; }
+
+.isp-font-ricordamidi-promemoria-1:before {
+  content: "\e292"; }
+
+.isp-font-vorrei-cerchio-miinteressa-01:before {
+  content: "\e293"; }
+
+.isp-font-vorrei-miinteressa-1:before {
+  content: "\e294"; }
+
+.isp-font-carta-identita-50-2px:before {
+  content: "\e295"; }
+
+.isp-font-carta-identita-90-2px:before {
+  content: "\e296"; }
+
+.isp-font-carta-identita-estera-50-2px:before {
+  content: "\e297"; }
+
+.isp-font-carta-identita-estera-90-2px:before {
+  content: "\e298"; }
+
+.isp-font-passaporto-50-2px:before {
+  content: "\e299"; }
+
+.isp-font-passaporto-90-2px:before {
+  content: "\e29a"; }
+
+.isp-font-passaporto-estero-50-2px:before {
+  content: "\e29b"; }
+
+.isp-font-passaporto-estero-90-2px:before {
+  content: "\e29c"; }
+
+.isp-font-patente-50-2px:before {
+  content: "\e29d"; }
+
+.isp-font-patente-90-2px:before {
+  content: "\e29e"; }
+
+.isp-font-permesso-soggiorno-50-2px:before {
+  content: "\e29f"; }
+
+.isp-font-permesso-soggiorno-90-2px:before {
+  content: "\e2a0"; }
+
+.isp-font-comuni-freccia-left-down:before {
+  content: "\e2a1"; }
+
+.isp-font-comuni-freccia-right-up:before {
+  content: "\e2a2"; }
+
+.isp-font-pfm-isp-font-cat-800:before {
+  content: "\e2a3"; }
+
+.isp-font-pfm-isp-font-cat-801:before {
+  content: "\e2a4"; }
+
+.isp-font-pfm-isp-font-cat-802:before {
+  content: "\e2a5"; }
+
+.isp-font-pfm-isp-font-cat-807:before {
+  content: "\e2a6"; }
+
+.isp-font-pfm-isp-font-cat-808:before {
+  content: "\e2a7"; }
+
+.isp-font-pfm-isp-font-cat-809:before {
+  content: "\e2a8"; }
+
+.isp-font-pfm-isp-font-cat-824:before {
+  content: "\e2a9"; }
+
+.isp-font-pfm-isp-font-cat-823:before {
+  content: "\e2aa"; }
+
+.isp-font-pfm-isp-font-cat-822:before {
+  content: "\e2ab"; }
+
+.isp-font-pfm-isp-font-cat-821:before {
+  content: "\e2ac"; }
+
+.isp-font-pfm-isp-font-cat-820:before {
+  content: "\e2ad"; }
+
+.isp-font-pfm-isp-font-cat-819:before {
+  content: "\e2ae"; }
+
+.isp-font-pfm-isp-font-cat-818:before {
+  content: "\e2af"; }
+
+.isp-font-pfm-isp-font-cat-813:before {
+  content: "\e2b0"; }
+
+.isp-font-pfm-isp-font-cat-812:before {
+  content: "\e2b1"; }
+
+.isp-font-pfm-isp-font-cat-811:before {
+  content: "\e2b2"; }
+
+.isp-font-pfm-isp-font-cat-810:before {
+  content: "\e2b3"; }
+
+.isp-font-pfm-isp-font-cat-816:before {
+  content: "\e2b4"; }
+
+.isp-font-pfm-isp-font-cat-815:before {
+  content: "\e2b5"; }
+
+.isp-font-pfm-isp-font-cat-803:before {
+  content: "\e2b6"; }
+
+.isp-font-pfm-isp-font-cat-804:before {
+  content: "\e2b7"; }
+
+.isp-font-pfm-isp-font-cat-805:before {
+  content: "\e2b8"; }
+
+.isp-font-pfm-isp-font-cat-806:before {
+  content: "\e2b9"; }
+
+.isp-font-pfm-isp-font-cat-814:before {
+  content: "\e2ba"; }
+
+.isp-font-pfm-isp-font-cat-317-1:before {
+  content: "\e2bb"; }
+
+.isp-font-pfm-isp-font-cat-212:before {
+  content: "\e2bc"; }
+
+.isp-font-pfm-isp-font-cat-211:before {
+  content: "\e2bd"; }
+
+.isp-font-pfm-isp-font-cat-125:before {
+  content: "\e2be"; }
+
+.isp-font-azioni-c-acquista-s:before {
+  content: "\e2bf"; }
+
+.isp-font-domiciliazioni-archivioaddebiti-01:before {
+  content: "\e2c0"; }
+
+.isp-font-domiciliazioni-blocca:before {
+  content: "\e2c1"; }
+
+.isp-font-domiciliazioni-blocca-01:before {
+  content: "\e2c2"; }
+
+.isp-font-domiciliazioni-gestioneregole:before {
+  content: "\e2c3"; }
+
+.isp-font-domiciliazioni-gestioneregole-01:before {
+  content: "\e2c4"; }
+
+.isp-font-domiciliazioni-modificalimiti:before {
+  content: "\e2c5"; }
+
+.isp-font-domiciliazioni-modificalimiti-01:before {
+  content: "\e2c6"; }
+
+.isp-font-domiciliazioni-modificarid:before {
+  content: "\e2c7"; }
+
+.isp-font-domiciliazioni-modificarid-01:before {
+  content: "\e2c8"; }
+
+.isp-font-domiciliazioni-respingi:before {
+  content: "\e2c9"; }
+
+.isp-font-domiciliazioni-respingi-01:before {
+  content: "\e2ca"; }
+
+.isp-font-domiciliazioni-rimborsa:before {
+  content: "\e2cb"; }
+
+.isp-font-domiciliazioni-rimborsa-01:before {
+  content: "\e2cc"; }
+
+.isp-font-domiciliazioni-sblocca:before {
+  content: "\e2cd"; }
+
+.isp-font-domiciliazioni-sblocca-01:before {
+  content: "\e2ce"; }
+
+.isp-font-operazioni-cerchio-domiciliazioni:before {
+  content: "\e2cf"; }
+
+.isp-font-operazioni-cerchio-domiciliazioni-01:before {
+  content: "\e2d0"; }
+
+.isp-font-operazioni-domiciliazioni:before {
+  content: "\e2d1"; }
+
+.isp-font-mioprofilo-attiva:before {
+  content: "\e2d2"; }
+
+.isp-font-mioprofilo-attiva-01:before {
+  content: "\e2d3"; }
+
+.isp-font-contactless:before {
+  content: "\e2d4"; }
+
+.isp-font-comuni-ultimi90giorni-xs:before {
+  content: "\e2d5"; }
+
+.isp-font-comuni-ultimi60giorni-xs:before {
+  content: "\e2d6"; }
+
+.isp-font-comuni-ultimi30giorni-xs:before {
+  content: "\e2d7"; }
+
+.isp-font-comuni-europa:before {
+  content: "\e2d8"; }
+
+.isp-font-mioprofilo-jiffy:before {
+  content: "\e2d9"; }
+
+.isp-font-isp-ama-part2-mostra-dati:before {
+  content: "\e2da"; }
+
+.isp-font-isp-ama-part2-nascondi-dati:before {
+  content: "\e2db"; }
+
+.isp-font-pfm-isp-font-cat-118:before {
+  content: "\e2dc"; }
+
+.isp-font-nav-parla-con-noi:before {
+  content: "\e2dd"; }
+
+.isp-font-rubrica-coccardacertificato:before {
+  content: "\e2de"; }
+
+.isp-font-icona-sessione-scaduta:before {
+  content: "\e2df"; }
+
+.isp-font-icona-sessione-scaduta-1:before {
+  content: "\e2e0"; }
+
+.isp-font-azioni-c-aggiorna-n:before {
+  content: "\e2e1"; }
+
+.isp-font-menuops-addressbook:before {
+  content: "\e2e2"; }
+
+.isp-font-pfm-isp-font-cross-041-rubricaimportaesitoko:before {
+  content: "\e2e3"; }
+
+.isp-font-azioni-c-aggiorna-s:before {
+  content: "\e2e4"; }
+
+.isp-font-azioni-c-allega-n:before {
+  content: "\e2e5"; }
+
+.isp-font-azioni-c-allega-s:before {
+  content: "\e2e6"; }
+
+.isp-font-azioni-c-elimina-cestino-s:before {
+  content: "\e2e7"; }
+
+.isp-font-coming-soon:before {
+  content: "\e2e8"; }
+
+.isp-font-coming-soon-1:before {
+  content: "\e2e9"; }
+
+.isp-font-reclami:before {
+  content: "\e2ea"; }
+
+.isp-font-rubrica-abbonamentotrasporti:before {
+  content: "\e2eb"; }
+
+.isp-font-rubrica-abbonamentotv:before {
+  content: "\e2ec"; }
+
+.isp-font-rubrica-cellulare:before {
+  content: "\e2ed"; }
+
+.isp-font-rubrica-altreinformazioni:before {
+  content: "\e2ee"; }
+
+.isp-font-rubrica-azienda:before {
+  content: "\e2ef"; }
+
+.isp-font-ops-westernunion:before {
+  content: "\e2f0"; }
+
+.isp-font-ops-c-westernunion-n:before {
+  content: "\e2f1"; }
+
+.isp-font-ops-c-westernunion-s:before {
+  content: "\e2f2"; }
+
+.isp-font-ops-bolloauto:before {
+  content: "\e2f3"; }
+
+.isp-font-ops-c-bolloauto-n:before {
+  content: "\e2f4"; }
+
+.isp-font-ops-c-bolloauto-s:before {
+  content: "\e2f5"; }
+
+.isp-font-ops-canonetv:before {
+  content: "\e2f6"; }
+
+.isp-font-ops-c-canonetv-n:before {
+  content: "\e2f7"; }
+
+.isp-font-ops-c-canonetv-s:before {
+  content: "\e2f8"; }
+
+.isp-font-ops-tasseuniversitarie:before {
+  content: "\e2f9"; }
+
+.isp-font-ops-c-tasseuniversitarie-n:before {
+  content: "\e2fa"; }
+
+.isp-font-ops-c-tasseuniversitarie-s:before {
+  content: "\e2fb"; }
+
+.isp-font-ops-f24:before {
+  content: "\e2fc"; }
+
+.isp-font-ops-c-f24-n:before {
+  content: "\e2fd"; }
+
+.isp-font-ops-c-f24-s:before {
+  content: "\e2fe"; }
+
+.isp-font-ops-f24-mod-semp:before {
+  content: "\e2ff"; }
+
+.isp-font-ops-f24-mod:before {
+  content: "\e300"; }
+
+.isp-font-ops-f24-attivawebcam:before {
+  content: "\e301"; }
+
+.isp-font-ops-f24-privacy:before {
+  content: "\e302"; }
+
+.isp-font-ops-f24-scattafoto:before {
+  content: "\e303"; }
+
+.isp-font-ops-f24-uploaddoc:before {
+  content: "\e304"; }
+
+.isp-font-ops-c-f24-ruotavista-n:before {
+  content: "\e305"; }
+
+.isp-font-ops-c-f24-ruotavista-s:before {
+  content: "\e306"; }
+
+.isp-font-rubrica-azienda-certificata:before {
+  content: "\e307"; }
+
+.isp-font-rubrica-canonerai:before {
+  content: "\e308"; }
+
+.isp-font-rubrica-cerchio-aggiungi:before {
+  content: "\e309"; }
+
+.isp-font-rubrica-cerchio-aggiungi-01:before {
+  content: "\e30a"; }
+
+.isp-font-rubrica-cerchio-canonerai:before {
+  content: "\e30b"; }
+
+.isp-font-rubrica-cerchio-canonerai-01:before {
+  content: "\e30c"; }
+
+.isp-font-rubrica-cerchio-foto:before {
+  content: "\e30d"; }
+
+.isp-font-rubrica-cerchio-foto-01:before {
+  content: "\e30e"; }
+
+.isp-font-rubrica-contoterzi:before {
+  content: "\e30f"; }
+
+.isp-font-rubrica-datifiscali:before {
+  content: "\e310"; }
+
+.isp-font-rubrica-dativeicolo:before {
+  content: "\e311"; }
+
+.isp-font-rubrica-gomma:before {
+  content: "\e312"; }
+
+.isp-font-rubrica-importaesito-ko:before {
+  content: "\e313"; }
+
+.isp-font-rubrica-importaesito-ok:before {
+  content: "\e314"; }
+
+.isp-font-rubrica-indirizzo:before {
+  content: "\e315"; }
+
+.isp-font-rubrica-privato:before {
+  content: "\e316"; }
+
+.isp-font-rubrica-privato-certificato:before {
+  content: "\e317"; }
+
+.isp-font-disattiva-servizio:before {
+  content: "\e318"; }
+
+.isp-font-modifica-impostazioni:before {
+  content: "\e319"; }
+
+.isp-font-icona-azienda-font:before {
+  content: "\e31a"; }
+
+.isp-font-icona-cerca-font:before {
+  content: "\e31b"; }
+
+.isp-font-icona-ordina-font:before {
+  content: "\e31c"; }
+
+.isp-font-icona-slidermenu-font:before {
+  content: "\e31d"; }
+
+.isp-font-icona-az-font:before {
+  content: "\e31e"; }
+
+.isp-font-icona-cerca-sel-font:before {
+  content: "\e31f"; }
+
+.isp-font-icona-ordina-sel-font:before {
+  content: "\e320"; }
+
+.isp-font-icona-recente-font:before {
+  content: "\e321"; }
+
+.isp-font-icona-slidermenu-sel-font:before {
+  content: "\e322"; }
+
+.isp-font-icona-unisci-font:before {
+  content: "\e323"; }
+
+.isp-font-operazioni-flashpeople:before {
+  content: "\e324"; }
+
+.isp-font-icone-liste3:before {
+  content: "\e325"; }
+
+.isp-font-icona-catalogo:before {
+  content: "\e326"; }
+
+.isp-font-icona-o-key-smart-app:before {
+  content: "\e327"; }
+
+.isp-font-icon-casa:before {
+  content: "\e328"; }
+
+.isp-font-accessibilita:before {
+  content: "\e329"; }
+
+.isp-font-cassa-self:before {
+  content: "\e32a"; }
+
+.isp-font-chiave:before {
+  content: "\e32b"; }
+
+.isp-font-computer-e-chiave:before {
+  content: "\e32c"; }
+
+.isp-font-icona-o:before {
+  content: "\e32d"; }
+
+.isp-font-icona-scarica-stampa-documento:before {
+  content: "\e32e"; }
+
+.isp-font-icona-scarica-font:before {
+  content: "\e32f"; }
+
+.isp-font-ricordamidi-scadenzatitoli:before {
+  content: "\e330"; }
+
+.isp-font-ico-bb-estero-01:before {
+  content: "\e331"; }
+
+.isp-font-ico-bb-estero-02:before {
+  content: "\e332"; }
+
+.isp-font-paygo:before {
+  content: "\e333"; }
+
+.isp-font-comuni-separatore-rombi:before {
+  content: "\e334"; }
+
+.isp-font-rubrica-aggiungicontatto-1:before {
+  content: "\e335"; }
+
+.isp-font-rubrica-coccardacertificato-1:before {
+  content: "\e336"; }
+
+.isp-font-rubrica-importacontatto-1:before {
+  content: "\e337"; }
+
+.isp-font-quickop-buonidirisparmio:before {
+  content: "\e338"; }
+
+.isp-font-avvisiinformativa:before {
+  content: "\e339"; }
+
+.isp-font-ricarica:before {
+  content: "\e33a"; }
+
+.isp-font-anchor:before {
+  content: "\e33b"; }
+
+.isp-font-sliderrubrica-1:before {
+  content: "\e33c"; }
+
+.isp-font-comuni-cerchio-grt-sign:before {
+  content: "\e33d"; }
+
+.isp-font-comuni-cerchio-grt-sign-circle:before {
+  content: "\e33e"; }
+
+.isp-font-comuni-cerchio-less-sign:before {
+  content: "\e33f"; }
+
+.isp-font-comuni-cerchio-less-sign-circle:before {
+  content: "\e340"; }
+
+.isp-font-play:before {
+  content: "\e341"; }
+
+.isp-font-video:before {
+  content: "\e342"; }
+
+.isp-font-ricevuta-export-01:before {
+  content: "\e343"; }
+
+.isp-font-ricevuta-export-02:before {
+  content: "\e344"; }
+
+.isp-font-sblocca:before {
+  content: "\e345"; }
+
+.isp-font-comuni-stampa:before {
+  content: "\e346"; }
+
+.isp-font-comuni-stampa-01:before {
+  content: "\e347"; }
+
+.isp-font-ico-visualizza:before {
+  content: "\e348"; }
+
+.isp-font-ico-visualizza-01:before {
+  content: "\e349"; }
+
+.isp-font-scarica-documento-01:before {
+  content: "\e34a"; }
+
+.isp-font-cerchio-lente:before {
+  content: "\e34b"; }
+
+.isp-font-cerchio-lente-01:before {
+  content: "\e34c"; }
+
+.isp-font-cerchio-tag:before {
+  content: "\e34d"; }
+
+.isp-font-cerchio-tag-01:before {
+  content: "\e34e"; }
+
+.isp-font-firma-spunta-02:before {
+  content: "\e34f"; }
+
+.isp-font-freccia-2-livello:before {
+  content: "\e350"; }
+
+.isp-font-mail:before {
+  content: "\e351"; }
+
+.isp-font-mail-certificata:before {
+  content: "\e352"; }
+
+.isp-font-scarica-documento:before {
+  content: "\e353"; }
+
+.isp-font-gestioneicon:before {
+  content: "\e354"; }
+
+.isp-font-icona-alert:before {
+  content: "\e355"; }
+
+.isp-font-mykey:before {
+  content: "\e356"; }
+
+.isp-font-cmbfont:before {
+  content: "\e357"; }
+
+.isp-font-cmbfont-1:before {
+  content: "\e358"; }
+
+.isp-font-cmbfont-2:before {
+  content: "\e359"; }
+
+.isp-font-cmbfont-3:before {
+  content: "\e35a"; }
+
+.isp-font-cmbfont-4:before {
+  content: "\e35b"; }
+
+.isp-font-cmbfont-5:before {
+  content: "\e35c"; }
+
+.isp-font-multicanalita-v8:before {
+  content: "\e35d"; }
+
+.isp-font-fax:before {
+  content: "\e35e"; }
+
+.isp-font-no-o-key:before {
+  content: "\e35f"; }
+
+.isp-font-quickop-archivio:before {
+  content: "\e360"; }
+
+.isp-font-attiva:before {
+  content: "\e361"; }
+
+.isp-font-icona-doc:before {
+  content: "\e362"; }
+
+.isp-font-comuni-impostazioni-pieno:before {
+  content: "\e363"; }
+
+.isp-font-cassetta-di-sicurezza:before {
+  content: "\e364"; }
+
+.isp-font-operazioni-cerchietto:before {
+  content: "\e365"; }
+
+.isp-font-icona-in-offerta-v2:before {
+  content: "\e366"; }
+
+.isp-font-o-key-single:before {
+  content: "\e367"; }
+
+.isp-font-nokey:before {
+  content: "\e368"; }
+
+.isp-font-login-okey-smartphone:before {
+  content: "\e369"; }
+
+.isp-font-cbill-cmyk-pos:before {
+  content: "\e36a"; }
+
+.isp-font-quickop-assegni:before {
+  content: "\e36b"; }
+
+.isp-font-quickop-bolletteepagamenti:before {
+  content: "\e36c"; }
+
+.isp-font-quickop-bonificiegiroconti:before {
+  content: "\e36d"; }
+
+.isp-font-quickop-librettidirisparmio:before {
+  content: "\e36e"; }
+
+.isp-font-cw-icon:before {
+  content: "\e36f"; }
+
+.isp-font-quickop-carte-cartevirtuali:before {
+  content: "\e370"; }
+
+.isp-font-quickop-mercatiequotazioni:before {
+  content: "\e371"; }
+
+.isp-font-quickop-f24ealtretasse:before {
+  content: "\e372"; }
+
+.isp-font-quickop-freccia:before {
+  content: "\e373"; }
+
+.isp-font-altri-derivati-icon-1:before {
+  content: "\e374"; }
+
+.isp-font-azioni-icon-1:before {
+  content: "\e375"; }
+
+.isp-font-candel-icon:before {
+  content: "\e376"; }
+
+.isp-font-certificates-icon-1:before {
+  content: "\e377"; }
+
+.isp-font-cw-icon-1:before {
+  content: "\e378"; }
+
+.isp-font-etf-icon-1:before {
+  content: "\e379"; }
+
+.isp-font-linea-icon-1:before {
+  content: "\e37a"; }
+
+.isp-font-montagna-icon-1:before {
+  content: "\e37b"; }
+
+.isp-font-obbligazioni-icon-1:before {
+  content: "\e37c"; }
+
+.isp-font-investimenti-ordini:before {
+  content: "\e37d"; }
+
+.isp-font-investimenti-portafoglio:before {
+  content: "\e37e"; }
+
+.isp-font-investimenti-watchlist:before {
+  content: "\e37f"; }
+
+.isp-font-operazioni-salva:before {
+  content: "\e380"; }
+
+.isp-font-operazioni-salva-01:before {
+  content: "\e381"; }
+
+.isp-font-ico-razzo:before {
+  content: "\e382"; }
+
+.isp-font-chiudi-posizione:before {
+  content: "\e383"; }
+
+.isp-font-take-profit:before {
+  content: "\e384"; }
+
+.isp-font-icon-sposta:before {
+  content: "\e385"; }
+
+.isp-font-vai-a-scheda:before {
+  content: "\e386"; }
+
+.isp-font-comuni-cerchio-bandiera:before {
+  content: "\e387"; }
+
+.isp-font-ico-impostazioni:before {
+  content: "\e388"; }
+
+.isp-font-icona-documentazione:before {
+  content: "\e389"; }
+
+.isp-font-ico-attiva:before {
+  content: "\e38a"; }
+
+.isp-font-ico-attiva-selez:before {
+  content: "\e38b"; }
+
+.isp-font-icona-in-offerta-v1:before {
+  content: "\e38c"; }
+
+.isp-font-facebook:before {
+  content: "\e38d"; }
+
+.isp-font-ico-valigia-togli-c:before {
+  content: "\e38e"; }
+
+.isp-font-ico-valigia-togli:before {
+  content: "\e38f"; }
+
+.isp-font-ico-valigia-aggiungi-c:before {
+  content: "\e390"; }
+
+.isp-font-ico-coppa:before {
+  content: "\e391"; }
+
+.isp-font-ico-coppa-c:before {
+  content: "\e392"; }
+
+.isp-font-ico-documentazione:before {
+  content: "\e393"; }
+
+.isp-font-ico-percentuale:before {
+  content: "\e394"; }
+
+.isp-font-ico-salvadanaio-aggiungi:before {
+  content: "\e395"; }
+
+.isp-font-ico-salvadanaio-aggiungi-c:before {
+  content: "\e396"; }
+
+.isp-font-ico-salvadanaio-togli:before {
+  content: "\e397"; }
+
+.isp-font-ico-salvadanaio-togli-c:before {
+  content: "\e398"; }
+
+.isp-font-ico-svuotatasche:before {
+  content: "\e399"; }
+
+.isp-font-ico-svuotatasche-c:before {
+  content: "\e39a"; }
+
+.isp-font-ico-valigia:before {
+  content: "\e39b"; }
+
+.isp-font-ico-valigia-aggiungi:before {
+  content: "\e39c"; }
+
+.isp-font-ico-gestione-pac:before {
+  content: "\e39d"; }
+
+.isp-font-ico-pac:before {
+  content: "\e39e"; }
+
+.isp-font-quickop-hamburger:before {
+  content: "\e39f"; }
+
+.isp-font-quickop-patrimonio:before {
+  content: "\e3a0"; }
+
+.isp-font-quickop-imieiconti:before {
+  content: "\e3a1"; }
+
+.isp-font-quickop-imieifigli:before {
+  content: "\e3a2"; }
+
+.isp-font-quickop-imieifinanziamenti:before {
+  content: "\e3a3"; }
+
+.isp-font-quickop-impostazioni:before {
+  content: "\e3a4"; }
+
+.isp-font-quickop-lemiecarte:before {
+  content: "\e3a5"; }
+
+.isp-font-quickop-lemiepolizze:before {
+  content: "\e3a6"; }
+
+.isp-font-massmarket-smartsave:before {
+  content: "\e3a7"; }
+
+.isp-font-massmarket-smartsave-c:before {
+  content: "\e3a8"; }
+
+.isp-font-menu-imieifigli:before {
+  content: "\e3a9"; }
+
+.isp-font-quickop-moneytransfer:before {
+  content: "\e3aa"; }
+
+.isp-font-quickop-ordinierevoche:before {
+  content: "\e3ab"; }
+
+.isp-font-menu-pos:before {
+  content: "\e3ac"; }
+
+.isp-font-quickop-ricercatitoliefondi:before {
+  content: "\e3ae"; }
+
+.isp-font-quickop-watchlist:before {
+  content: "\e3b0"; }
+
+.isp-font-quickop-domiciliazione:before {
+  content: "\e3b1"; }
+
+.isp-font-quickop-notiziemercato:before {
+  content: "\e3b2"; }
+
+.isp-font-quickop-ricariche:before {
+  content: "\e3b3"; }
+
+.isp-font-ico-impostazioni-1:before {
+  content: "\e400"; }
+
+.isp-font-scarica-documento-01-1:before {
+  content: "\e401"; }
+
+.isp-font-pfm-isp-font-cat-002:before {
+  content: "\e402"; }
+
+.isp-font-pfm-isp-font-cat-003:before {
+  content: "\e403"; }
+
+.isp-font-icona-in-offerta-v1-1:before {
+  content: "\e406"; }
+
+.isp-font-ico-salvadanaio-aggiungi-1:before {
+  content: "\e41c"; }
+
+.isp-font-apple_pay:before {
+  content: "\e900"; }
+
+.isp-font-mastercard:before {
+  content: "\e901"; }
+
+.isp-font-samsung_pay:before {
+  content: "\e902"; }
+
+.isp-font-xme_pay:before {
+  content: "\e903"; }
+
+.isp-font-contactless2:before {
+  content: "\e904"; }
+
+.isp-font-ecommerce:before {
+  content: "\e905"; }
+
+.isp-font-Masterpass:before {
+  content: "\e906"; }
+
+.isp-font-MiaFamiglia:before {
+  content: "\e907"; }
+
+.isp-font-MiaSalute:before {
+  content: "\e908"; }
+
+.isp-font-MieiBeni:before {
+  content: "\e909"; }
+
+.isp-font-comuni-toggle-list_C:before {
+  content: "\e90a"; }
+
+.isp-font-computer:before {
+  content: "\e90b"; }
+
+.isp-font-Incassi_RIBA:before {
+  content: "\e90c"; }
+
+.isp-font-icn_tab_pos:before {
+  content: "\e90d"; }
+
+.isp-font-Pagamenti_RIBA:before {
+  content: "\e90e"; }
+
+.isp-font-Android_PlayStore:before {
+  content: "\e90f"; }
+
+.isp-font-Windows_Store:before {
+  content: "\e910"; }
+
+.isp-font-Apple_Store:before {
+  content: "\e911"; }
+
+.isp-font-coming_soon:before {
+  content: "\e912"; }
+
+.isp-font-Modifica_Piu:before {
+  content: "\e913"; }
+
+.isp-font-puntini:before {
+  content: "\e914"; }
+
+.isp-font-rubrica-gomma_C:before {
+  content: "\e915"; }
+
+.isp-font-Accesso_Veloce:before {
+  content: "\e916"; }
+
+.isp-font-Drag_Drop:before {
+  content: "\e917"; }
+
+.isp-font-Industria:before {
+  content: "\e918"; }
+
+.isp-font-Lucchetto_01:before {
+  content: "\e919"; }
+
+.isp-font-Lucchetto_02:before {
+  content: "\e91a"; }
+
+.isp-font-Modifica:before {
+  content: "\e91b"; }
+
+.isp-font-O-Key_Piu:before {
+  content: "\e91c"; }
+
+.isp-font-O-Key_Smart:before {
+  content: "\e91d"; }
+
+.isp-font-Smartphone_lucchetto:before {
+  content: "\e91e"; }
+
+.isp-font-Profilo_industria:before {
+  content: "\e91f"; }
+
+.isp-font-Profilo_persona:before {
+  content: "\e920"; }
+
+.isp-font-Profilo_rubrica:before {
+  content: "\e921"; }
+
+.isp-font-SedeLegale:before {
+  content: "\e922"; }
+
+.isp-font-Guasto:before {
+  content: "\e923"; }
+
+.isp-font-Aggiorna_firmware:before {
+  content: "\e924"; }
+
+.isp-font-Dindi:before {
+  content: "\e925"; }
+
+.isp-font-Disattiva:before {
+  content: "\e926"; }
+
+.isp-font-digifattura_C_N:before {
+  content: "\e927"; }
+
+.isp-font-strumenti_incasso_C_B:before {
+  content: "\e928"; }
+
+.isp-font-strumenti_incasso_C_N:before {
+  content: "\e929"; }
+
+.isp-font-digifattura_C_B:before {
+  content: "\e92a"; }
+
+.isp-font-conticarte_C_B:before {
+  content: "\e92b"; }
+
+.isp-font-placeholder_azienda:before {
+  content: "\e92c"; }
+
+.isp-font-operazionipagamenti_C_N:before {
+  content: "\e92d"; }
+
+.isp-font-cambia_privato-business:before {
+  content: "\e92e"; }
+
+.isp-font-industria_filled:before {
+  content: "\e92f"; }
+
+.isp-font-persona_filled:before {
+  content: "\e930"; }
+
+.isp-font-rubrica_aggiungi_a_gruppo:before {
+  content: "\e931"; }
+
+.isp-font-conticarte_C_N:before {
+  content: "\e932"; }
+
+.isp-font-altro_C_B:before {
+  content: "\e933"; }
+
+.isp-font-altro_C_N:before {
+  content: "\e934"; }
+
+.isp-font-investimenti_C_B:before {
+  content: "\e935"; }
+
+.isp-font-investimenti_C_N:before {
+  content: "\e936"; }
+
+.isp-font-finanziamenti_C_B:before {
+  content: "\e937"; }
+
+.isp-font-finanziamenti_C_N:before {
+  content: "\e938"; }
+
+.isp-font-assicurazioni_C_B:before {
+  content: "\e939"; }
+
+.isp-font-assicurazioni_C_N:before {
+  content: "\e93a"; }
+
+.isp-font-operazionipagamenti_C_B:before {
+  content: "\e93b"; }
+
+.isp-font-logo_Bancapulia:before {
+  content: "\e93c"; }
+
+.isp-font-logo_Carisbo:before {
+  content: "\e93d"; }
+
+.isp-font-logo_Firenze:before {
+  content: "\e93e"; }
+
+.isp-font-logo_IntesaSanpaolo03:before {
+  content: "\e93f"; }
+
+.isp-font-logo_Pistoia:before {
+  content: "\e940"; }
+
+.isp-font-importa_rubrica_C:before {
+  content: "\e941"; }
+
+.isp-font-importa_rubrica_C_filled:before {
+  content: "\e942"; }
+
+.isp-font-persone:before {
+  content: "\e943"; }
+
+.isp-font-unisci_C_filled:before {
+  content: "\e944"; }
+
+.isp-font-piu:before {
+  content: "\e945"; }
+
+.isp-font-switch_business-privato:before {
+  content: "\e946"; }
+
+.isp-font-Documenti_cartellaaperta:before {
+  content: "\e947"; }
+
+.isp-font-switch_industria_industria:before {
+  content: "\e948"; }
+
+.isp-font-Simboli_Risorsa-7_XS20:before {
+  content: "\e949"; }
+
+.isp-font-rubrica-gomma_C_full:before {
+  content: "\e94a"; }
+
+.isp-font-robot:before {
+  content: "\e94b"; }
+
+.isp-font-Ordinamento_Up_Full:before {
+  content: "\e94c"; }
+
+.isp-font-Ordinamento_Down_Full:before {
+  content: "\e94d"; }
+
+.isp-font-Ordinamento_Up_white:before {
+  content: "\e94e"; }
+
+.isp-font-Ordinamento_Down_white:before {
+  content: "\e94f"; }
+
+.isp-font-comuni-freccia-dx:before {
+  content: "\e950"; }
+
+.isp-font-Simboli_freccia_sinistra:before {
+  content: "\e951"; }
+
+.isp-font-Simboli_freccia_destra:before {
+  content: "\e952"; }
+
+.isp-font-comuni-freccia-sx:before {
+  content: "\e953"; }
+
+.isp-font-Simboli_Risorsa-7_XS20_b:before {
+  content: "\e954"; }
+
+.isp-font-Stop:before {
+  content: "\e955"; }
+
+.isp-font-Stop_full:before {
+  content: "\e956"; }
+
+.isp-font-Off:before {
+  content: "\e957"; }
+
+.isp-font-Off_full:before {
+  content: "\e958"; }
+
+.isp-font-Orologio_Full:before {
+  content: "\e959"; }
+
+.isp-font-Detach-1:before {
+  content: "\e95a"; }
+
+.isp-font-comuni-freccia-accordion-apri1:before {
+  content: "\e95b"; }
+
+.isp-font-comuni-freccia-accordion-chiudi1:before {
+  content: "\e95c"; }
+
+.isp-font-Simboli_Risorsa_Puntini_Pagination:before {
+  content: "\e95d"; }
+
+.isp-font-ToDo_Stepper:before {
+  content: "\e95e"; }
+
+.isp-font-ToDo_Stepper2:before {
+  content: "\e95f"; }
+
+.isp-font-Elenco_InLista:before {
+  content: "\e960"; }
+
+.isp-font-importa_file:before {
+  content: "\e961"; }
+
+.isp-font-importa_file_selez:before {
+  content: "\e962"; }
+
+.isp-font-Settings_Alert-01:before {
+  content: "\e963"; }
+
+.isp-font-Icona_ServiziPerMe:before {
+  content: "\e964"; }
+
+.isp-font-cruscotto:before {
+  content: "\e965"; }
+
+.isp-font-Digifattura:before {
+  content: "\e966"; }
+
+.isp-font-Profilo_PG:before {
+  content: "\e967"; }
+
+.isp-font-Autorizzazione_operatori:before {
+  content: "\e968"; }
+
+.isp-font-facebook1:before {
+  content: "\e969"; }
+
+.isp-font-youtube:before {
+  content: "\e96a"; }
+
+.isp-font-twitter:before {
+  content: "\e96b"; }
+
+.isp-font-linkedin:before {
+  content: "\e96c"; }
+
+.isp-font-ico_invest_servizi_investimento:before {
+  content: "\e96d"; }
+
+.isp-font-ico_invest_ordini_e_revoche:before {
+  content: "\e96e"; }
+
+.isp-font-ico_invest_analisi:before {
+  content: "\e96f"; }
+
+.isp-font-ico_invest_posizione_fiscale:before {
+  content: "\e970"; }
+
+.isp-font-ico_invest_profitti_e_perdite:before {
+  content: "\e971"; }
+
+.isp-font-ico_invest_rendimenti:before {
+  content: "\e972"; }
+
+.isp-font-conti-assegni-daattivare-01:before {
+  content: "\e973"; }
+
+.isp-font-file_JPEG:before {
+  content: "\e974"; }
+
+.isp-font-File_PNG:before {
+  content: "\e975"; }
+
+.isp-font-Uguale2:before {
+  content: "\e976"; }
+
+.isp-font-Uguale:before {
+  content: "\e977"; }
+
+.isp-font-Diminuisce2:before {
+  content: "\e978"; }
+
+.isp-font-Diminuisce:before {
+  content: "\e979"; }
+
+.isp-font-mail_verificata:before {
+  content: "\e97a"; }
+
+.isp-font-mail_verificata_selez:before {
+  content: "\e97b"; }
+
+.isp-font-Carrello-1:before {
+  content: "\e97c"; }
+
+.isp-font-Carrelloinlistapieno:before {
+  content: "\e97d"; }
+
+.isp-font-Automobile:before {
+  content: "\e97e"; }
+
+.isp-font-Cristalli:before {
+  content: "\e97f"; }
+
+.isp-font-IncendioFurto:before {
+  content: "\e980"; }
+
+.isp-font-AttiVandalici:before {
+  content: "\e981"; }
+
+.isp-font-Collisione:before {
+  content: "\e982"; }
+
+.isp-font-AssistenzaStradaleBase:before {
+  content: "\e983"; }
+
+.isp-font-AssistenzaStradaleEstesa:before {
+  content: "\e984"; }
+
+.isp-font-TutelaLegale:before {
+  content: "\e985"; }
+
+.isp-font-TutelaLegaleEstesa:before {
+  content: "\e986"; }
+
+.isp-font-RinunciaRivalsa:before {
+  content: "\e987"; }
+
+.isp-font-InfortunioConducente:before {
+  content: "\e988"; }
+
+.isp-font-garmin:before {
+  content: "\e989"; }
+
+.isp-font-fitbit:before {
+  content: "\e98a"; }
+
+.isp-font-Riprova:before {
+  content: "\e98b"; }
+
+.isp-font-pacco-regalo:before {
+  content: "\e98c"; }
+
+.isp-font-ico_agente:before {
+  content: "\e98d"; }
+
+.isp-font-Spunta_Stepper:before {
+  content: "\e98e"; }
+
+.isp-font-Spunta_Stepper2:before {
+  content: "\e98f"; }
+
+.isp-font-Posizione_di_portafoglio:before {
+  content: "\e990"; }
+
+.isp-font-import-export_flussi:before {
+  content: "\e991"; }
+
+.isp-font-logout:before {
+  content: "\e992"; }
+
+.isp-font-videoguide:before {
+  content: "\e993"; }
+
+.isp-font-LeMieBanche_icon:before {
+  content: "\e994"; }
+
+.isp-font-azioni-c-confronta-UpDown:before {
+  content: "\e995"; }
+
+.isp-font-InAttesa:before {
+  content: "\e996"; }
+
+.isp-font-Watchlist:before {
+  content: "\e997"; }
+
+.isp-font-XME_BANKS_02_iconfont:before {
+  content: "\e998"; }
+
+.isp-font-Icona_Slash:before {
+  content: "\e999"; }
+
+.isp-font-inverti_campi:before {
+  content: "\e99a"; }
+
+.isp-font-icona_link:before {
+  content: "\e99b"; }
+
+.isp-font-icon_share:before {
+  content: "\e99c"; }
+
+.isp-font-icon_like:before {
+  content: "\e99d"; }
+
+.isp-font-icon_like_outline:before {
+  content: "\e99e"; }
+
+.isp-font-icon-Rimorchio:before {
+  content: "\e99f"; }
+
+.isp-font-icon-Motoveicolo:before {
+  content: "\e9a0"; }
+
+.isp-font-icon-PagoPA:before {
+  content: "\e9a1"; }
+
+.isp-font-icon-Moto:before {
+  content: "\e9a2"; }
+
+.isp-font-icon-Moto_incendio:before {
+  content: "\e9a3"; }
+
+.isp-font-icon-Moto_eventoNaturale:before {
+  content: "\e9a4"; }
+
+.isp-font-Angry_feedback:before {
+  content: "\e9a5"; }
+
+.isp-font-VeryHappy_feedback:before {
+  content: "\e9a6"; }
+
+.isp-font-comuni-filtro_pieno:before {
+  content: "\e9a7"; }
+
+.isp-font-icon-ALFABETO:before {
+  content: "\e9a8"; }
+
+.isp-font-Fissa_pieno:before {
+  content: "\e9a9"; }
+
+.isp-font-Visualizz_tabella_pieno:before {
+  content: "\e9aa"; }
+
+.isp-font-Visualizz_tabella:before {
+  content: "\e9ab"; }
+
+.isp-font-Visualizz_blocchi_pieno:before {
+  content: "\e9ac"; }
+
+.isp-font-Visualizz_blocchi:before {
+  content: "\e9ad"; }
+
+.isp-font-Croce:before {
+  content: "\e9ae"; }
+
+.isp-font-Spunta:before {
+  content: "\e9af"; }
+
+.isp-font-Fideuram_rete:before {
+  content: "\e9b0"; }
+
+.isp-font-logoAlfabeto_solo-pittogramma:before {
+  content: "\e9b1"; }
+
+.isp-font-Sanpaoloinvest_rete:before {
+  content: "\e9b2"; }
+
+.isp-font-Fideuram-Logo_monocolore:before {
+  content: "\e9b3"; }
+
+.isp-font-ISPB:before {
+  content: "\e9b4"; }
+
+.isp-font-icon-Icona_vai-a-XME-conto_iconfont:before {
+  content: "\e9b5"; }
+
+.isp-font-icon-Icona_parla-con-noi_iconfont:before {
+  content: "\e9b6"; }
+
+.isp-font-icon-Icona_aumenta-il-plafond_iconfont:before {
+  content: "\e9b7"; }
+
+.isp-font-prendi_appuntamento_C:before {
+  content: "\e9b8"; }
+
+.isp-font-Icon_percentage-01:before {
+  content: "\e9b9"; }
+
+.isp-font-Evidenziatore:before {
+  content: "\e9ba"; }
+
+.isp-font-M-1:before {
+  content: "\e9bb"; }
+
+.isp-font-N:before {
+  content: "\e9bc"; }
+
+.isp-font-n-1:before {
+  content: "\e9bd"; }
+
+.isp-font-o:before {
+  content: "\e9be"; }
+
+.isp-font-O-1:before {
+  content: "\e9bf"; }
+
+.isp-font-p:before {
+  content: "\e9c0"; }
+
+.isp-font-P-1:before {
+  content: "\e9c1"; }
+
+.isp-font-Q:before {
+  content: "\e9c2"; }
+
+.isp-font-q-1:before {
+  content: "\e9c3"; }
+
+.isp-font-R:before {
+  content: "\e9c4"; }
+
+.isp-font-r-1:before {
+  content: "\e9c5"; }
+
+.isp-font-s:before {
+  content: "\e9c6"; }
+
+.isp-font-S-1:before {
+  content: "\e9c7"; }
+
+.isp-font-T:before {
+  content: "\e9c8"; }
+
+.isp-font-t-1:before {
+  content: "\e9c9"; }
+
+.isp-font-U:before {
+  content: "\e9ca"; }
+
+.isp-font-u-1:before {
+  content: "\e9cb"; }
+
+.isp-font-v:before {
+  content: "\e9cc"; }
+
+.isp-font-V-1:before {
+  content: "\e9cd"; }
+
+.isp-font-w:before {
+  content: "\e9ce"; }
+
+.isp-font-W-1:before {
+  content: "\e9cf"; }
+
+.isp-font-X:before {
+  content: "\e9d0"; }
+
+.isp-font-x-1:before {
+  content: "\e9d1"; }
+
+.isp-font-y:before {
+  content: "\e9d2"; }
+
+.isp-font-Y-1:before {
+  content: "\e9d3"; }
+
+.isp-font-z:before {
+  content: "\e9d4"; }
+
+.isp-font-Z-1:before {
+  content: "\e9d5"; }
+
+.isp-font-0:before {
+  content: "\e9d6"; }
+
+.isp-font-bandiera_cuore_cerchio:before {
+  content: "\e9d7"; }
+
+.isp-font-bandiera_cuore_cerchio_N:before {
+  content: "\e9d8"; }
+
+.isp-font-pac_cerchio:before {
+  content: "\e9d9"; }
+
+.isp-font-presente_portafoglio:before {
+  content: "\e9da"; }
+
+.isp-font-presente_portafoglio_cerchio:before {
+  content: "\e9db"; }
+
+.isp-font-sposta_fondi:before {
+  content: "\e9dc"; }
+
+.isp-font-switch_cerchio:before {
+  content: "\e9dd"; }
+
+.isp-font-1:before {
+  content: "\e9de"; }
+
+.isp-font-2:before {
+  content: "\e9df"; }
+
+.isp-font-3:before {
+  content: "\e9e0"; }
+
+.isp-font-4:before {
+  content: "\e9e1"; }
+
+.isp-font-5:before {
+  content: "\e9e2"; }
+
+.isp-font-6:before {
+  content: "\e9e3"; }
+
+.isp-font-7:before {
+  content: "\e9e4"; }
+
+.isp-font-8:before {
+  content: "\e9e5"; }
+
+.isp-font-9:before {
+  content: "\e9e6"; }
+
+.isp-font-a:before {
+  content: "\e9e7"; }
+
+.isp-font-A-1:before {
+  content: "\e9e8"; }
+
+.isp-font-B:before {
+  content: "\e9e9"; }
+
+.isp-font-b-1:before {
+  content: "\e9ea"; }
+
+.isp-font-C:before {
+  content: "\e9eb"; }
+
+.isp-font-c-1:before {
+  content: "\e9ec"; }
+
+.isp-font-d:before {
+  content: "\e9ed"; }
+
+.isp-font-D-1:before {
+  content: "\e9ee"; }
+
+.isp-font-e:before {
+  content: "\e9ef"; }
+
+.isp-font-E-1:before {
+  content: "\e9f0"; }
+
+.isp-font-f:before {
+  content: "\e9f1"; }
+
+.isp-font-F-1:before {
+  content: "\e9f2"; }
+
+.isp-font-G:before {
+  content: "\e9f3"; }
+
+.isp-font-g-1:before {
+  content: "\e9f4"; }
+
+.isp-font-H:before {
+  content: "\e9f5"; }
+
+.isp-font-h-1:before {
+  content: "\e9f6"; }
+
+.isp-font-i:before {
+  content: "\e9f7"; }
+
+.isp-font-I-1:before {
+  content: "\e9f8"; }
+
+.isp-font-J:before {
+  content: "\e9f9"; }
+
+.isp-font-j-1:before {
+  content: "\e9fa"; }
+
+.isp-font-K:before {
+  content: "\e9fb"; }
+
+.isp-font-k-1:before {
+  content: "\e9fc"; }
+
+.isp-font-l:before {
+  content: "\e9fd"; }
+
+.isp-font-L-1:before {
+  content: "\e9fe"; }
+
+.isp-font-m:before {
+  content: "\e9ff"; }
+
+.isp-font-icon-import_data_from_file:before {
+  content: "\ea00"; }
+
+.isp-font-icon-carrello:before {
+  content: "\ea01"; }
+
+.isp-font-SmartSave:before {
+  content: "\ea02"; }
+
+.isp-font-XME_Wallet_menu_altro:before {
+  content: "\ea03"; }
+
+.isp-font-Calcolatrice:before {
+  content: "\ea04"; }
+
+.isp-font-prestito_green:before {
+  content: "\ea05"; }
+
+.isp-font-Ostacolo_Tecla_ISA:before {
+  content: "\ea06"; }
+
+.isp-font-OggettoTrasportato_Tecla_ISA:before {
+  content: "\ea07"; }
+
+.isp-font-Conducente_Tecla_ISA:before {
+  content: "\ea08"; }
+
+.isp-font-Pedone_Tecla_ISA:before {
+  content: "\ea09"; }
+
+.isp-font-Bicicletta_Tecla_ISA:before {
+  content: "\ea0a"; }
+
+.isp-font-Ciclista_Tecla_ISA:before {
+  content: "\ea0b"; }
+
+.isp-font-Trasportato_Tecla_ISA:before {
+  content: "\ea0c"; }
+
+.isp-font-firma_digitale:before {
+  content: "\ea0d"; }
+
+.isp-font-CoBrowsing:before {
+  content: "\ea0e"; }
+
+.isp-font-comuni-cerchio-grt-sign-down:before {
+  content: "\ea0f"; }
+
+.isp-font-Sottoscrivi:before {
+  content: "\ea10"; }
+
+.isp-font-Sposta:before {
+  content: "\ea11"; }
+
+.isp-font-Switch:before {
+  content: "\ea12"; }
+
+.isp-font-Vendi:before {
+  content: "\ea13"; }
+
+.isp-font-Chiudi-Posizione:before {
+  content: "\ea14"; }
+
+.isp-font-Gestisci-Take-Profit---Stop-Loss:before {
+  content: "\ea15"; }
+
+.isp-font-Modifica1:before {
+  content: "\ea16"; }
+
+.isp-font-Negozia:before {
+  content: "\ea17"; }
+
+.isp-font-Sospendi:before {
+  content: "\ea18"; }
+
+.isp-font-CommissioniRimborso:before {
+  content: "\ea19"; }
+
+.isp-font-Lucchetto:before {
+  content: "\ea1a"; }
+
+.isp-font-Sottoscrivi-Carrello:before {
+  content: "\ea1b"; }
+
+.isp-font-Arrow_CJ_ibridi_mobile:before {
+  content: "\ea1c"; }
+
+.isp-font-POS_Cordless_Wireless:before {
+  content: "\ea1d"; }
+
+.isp-font-POS_Mobile:before {
+  content: "\ea1e"; }
+
+.isp-font-POS_Fissi:before {
+  content: "\ea1f"; }
+
+.isp-font-E-Commerce:before {
+  content: "\ea20"; }
+
+.isp-font-Bancomat-Pay_AppMobilit:before {
+  content: "\ea21"; }
+
+.isp-font-Condividi_Schermo:before {
+  content: "\ea22"; }
+
+.isp-font-Logo-exclusive:before {
+  content: "\ea23"; }
+
+.isp-font-Comprimi:before {
+  content: "\ea24"; }
+
+.isp-font-Espandi:before {
+  content: "\ea25"; }
+
+.isp-font-VideoON:before {
+  content: "\ea26"; }
+
+.isp-font-VideoOFF:before {
+  content: "\ea27"; }
+
+.isp-font-AudioON:before {
+  content: "\ea28"; }
+
+.isp-font-AudioOFF:before {
+  content: "\ea29"; }
+
+.isp-font-CallOFF:before {
+  content: "\ea2a"; }
+
+.isp-font-Huawei_logo:before {
+  content: "\ea2b"; }
+
+.isp-font-Verifica:before {
+  content: "\ea2c"; }
+
+.isp-font-TextEditor_01:before {
+  content: "\ea2d"; }
+
+.isp-font-TextEditor_02:before {
+  content: "\ea2e"; }
+
+.isp-font-TextEditor_03:before {
+  content: "\ea2f"; }
+
+.isp-font-TextEditor_04:before {
+  content: "\ea30"; }
+
+.isp-font-TextEditor_05:before {
+  content: "\ea31"; }
+
+.isp-font-TextEditor_06:before {
+  content: "\ea32"; }
+
+.isp-font-TextEditor_07:before {
+  content: "\ea33"; }
+
+.isp-font-TextEditor_08:before {
+  content: "\ea34"; }
+
+.isp-font-AudioOFF_filled:before {
+  content: "\ea35"; }
+
+.isp-font-AudioON_filled:before {
+  content: "\ea36"; }
+
+.isp-font-CallOFF_filled:before {
+  content: "\ea37"; }
+
+.isp-font-VideoOFF_filled:before {
+  content: "\ea38"; }
+
+.isp-font-VideoON_filled:before {
+  content: "\ea39"; }
+
+.isp-font-File_SDD:before {
+  content: "\ea3a"; }
+
+.isp-font-Notifica_CIB:before {
+  content: "\ea3b"; }
+
+.isp-font-Certificazione-Smartphone:before {
+  content: "\ea3c"; }
+
+.isp-font-Bookmark_Full:before {
+  content: "\ea3d"; }
+
+.isp-font-Bookmark_Outline:before {
+  content: "\ea3e"; }
+
+.isp-font-Link_Carrello_filled:before {
+  content: "\ea3f"; }
+
+.isp-font-Link_Carrello:before {
+  content: "\ea40"; }
+
+.isp-font-Masterpass-01:before {
+  content: "\ea41"; }
+
+.isp-font-Modifica-Circuito:before {
+  content: "\ea42"; }
+
+.isp-font-Mail_Cerchiata:before {
+  content: "\ea43"; }
+
+.isp-font-Gerarchia:before {
+  content: "\ea44"; }
+
+.isp-font-event_ticket:before {
+  content: "\ea45"; }
+
+.isp-font-Pin_Posizione:before {
+  content: "\ea46"; }
+
+.isp-font-Newsletter:before {
+  content: "\ea47"; }
+
+.isp-font-ABC:before {
+  content: "\ea48"; }
+
+.isp-font-Icona-ESG:before {
+  content: "\ea49"; }
+
+.isp-font-Utente_small:before {
+  content: "\ea4a"; }
+
+.isp-font-Tutela:before {
+  content: "\ea4b"; }
+
+.isp-font-Preferito_Cerchiato_Full:before {
+  content: "\ea4c"; }
+
+.isp-font-Preferito_Cerchiato:before {
+  content: "\ea4d"; }
+
+.isp-font-Mail_Cerchiata_Full:before {
+  content: "\ea4e"; }
+
+.isp-font-Gerarchia_Cerchiata:before {
+  content: "\ea4f"; }
+
+.isp-font-ESG_filled:before {
+  content: "\ea50"; }
+
+.isp-font-ESG:before {
+  content: "\ea51"; }
+
+.isp-font-BancaPiu:before {
+  content: "\ea52"; }
+
+.isp-font-Assegna_Documento:before {
+  content: "\ea53"; }
+
+.isp-font-Archivio:before {
+  content: "\ea54"; }
+
+.isp-font-Archivio-SpostaSx:before {
+  content: "\ea55"; }
+
+.isp-font-Archivio-SpostaDx:before {
+  content: "\ea56"; }
+
+.isp-font-Anagrafica:before {
+  content: "\ea57"; }
+
+.isp-font-Utente_small1:before {
+  content: "\ea58"; }
+
+.isp-font-Tutela1:before {
+  content: "\ea59"; }
+
+.isp-font-Preferito_Cerchiato_Full1:before {
+  content: "\ea5a"; }
+
+.isp-font-Preferito_Cerchiato1:before {
+  content: "\ea5b"; }
+
+.isp-font-Mail_Cerchiata_Full1:before {
+  content: "\ea5c"; }
+
+.isp-font-Gerarchia_Cerchiata1:before {
+  content: "\ea5d"; }
+
+.isp-font-ESG_filled1:before {
+  content: "\ea5e"; }
+
+.isp-font-ESG1:before {
+  content: "\ea5f"; }
+
+.isp-font-BancaPiu1:before {
+  content: "\ea60"; }
+
+.isp-font-Assegna_Documento1:before {
+  content: "\ea61"; }
+
+.isp-font-Archivio1:before {
+  content: "\ea62"; }
+
+.isp-font-Archivio-SpostaSx1:before {
+  content: "\ea63"; }
+
+.isp-font-Archivio-SpostaDx1:before {
+  content: "\ea64"; }
+
+.isp-font-Anagrafica1:before {
+  content: "\ea65"; }
+
+.isp-font-Icona-ESG1:before {
+  content: "\ea66"; }
+
+.isp-font-Newsletter1:before {
+  content: "\ea67"; }
+
+.isp-font-ABC1:before {
+  content: "\ea68"; }
+
+.isp-font-Gerarchia1:before {
+  content: "\ea69"; }
+
+.isp-font-event_ticket1:before {
+  content: "\ea6a"; }
+
+.isp-font-Pin_Posizione1:before {
+  content: "\ea6b"; }
+
+.isp-font-Mail_Cerchiata1:before {
+  content: "\ea6c"; }
+
+.isp-font-Masterpass-011:before {
+  content: "\ea6d"; }
+
+.isp-font-Modifica-Circuito1:before {
+  content: "\ea6e"; }
+
+.isp-font-Link_Carrello_filled1:before {
+  content: "\ea6f"; }
+
+.isp-font-Link_Carrello1:before {
+  content: "\ea70"; }
+
+.isp-font-Bookmark_Full1:before {
+  content: "\ea71"; }
+
+.isp-font-Bookmark_Outline1:before {
+  content: "\ea72"; }
+
+.isp-font-Certificazione-Smartphone1:before {
+  content: "\ea73"; }
+
+.isp-font-File_SDD1:before {
+  content: "\ea74"; }
+
+.isp-font-Notifica_CIB1:before {
+  content: "\ea75"; }
+
+.isp-font-AudioOFF_filled1:before {
+  content: "\ea76"; }
+
+.isp-font-AudioON_filled1:before {
+  content: "\ea77"; }
+
+.isp-font-CallOFF_filled1:before {
+  content: "\ea78"; }
+
+.isp-font-VideoOFF_filled1:before {
+  content: "\ea79"; }
+
+.isp-font-VideoON_filled1:before {
+  content: "\ea7a"; }
+
+.isp-font-Comprimi1:before {
+  content: "\ea7b"; }
+
+.isp-font-Espandi1:before {
+  content: "\ea7c"; }
+
+.isp-font-VideoON1:before {
+  content: "\ea7d"; }
+
+.isp-font-VideoOFF1:before {
+  content: "\ea7e"; }
+
+.isp-font-AudioON1:before {
+  content: "\ea7f"; }
+
+.isp-font-AudioOFF1:before {
+  content: "\ea80"; }
+
+.isp-font-CallOFF1:before {
+  content: "\ea81"; }
+
+.isp-font-Huawei_logo1:before {
+  content: "\ea82"; }
+
+.isp-font-Verifica1:before {
+  content: "\ea83"; }
+
+.isp-font-TextEditor_011:before {
+  content: "\ea84"; }
+
+.isp-font-TextEditor_021:before {
+  content: "\ea85"; }
+
+.isp-font-TextEditor_031:before {
+  content: "\ea86"; }
+
+.isp-font-TextEditor_041:before {
+  content: "\ea87"; }
+
+.isp-font-TextEditor_051:before {
+  content: "\ea88"; }
+
+.isp-font-TextEditor_061:before {
+  content: "\ea89"; }
+
+.isp-font-TextEditor_071:before {
+  content: "\ea8a"; }
+
+.isp-font-TextEditor_081:before {
+  content: "\ea8b"; }
+
+.isp-font-Privato_Business:before {
+  content: "\eadf"; }
+
+.isp-font-Cartella_filled:before {
+  content: "\eae0"; }
+
+.isp-font-comuni-c-alert-n_pieno:before {
+  content: "\ec10"; }
+
+.isp-font-Chevron_left:before {
+  content: "\ea8c"; }
+
+.isp-font-Search-App:before {
+  content: "\ea8d"; }
+
+.isp-font-Soldi_Invia:before {
+  content: "\ea8e"; }
+
+.isp-font-Soldi_Richiedi:before {
+  content: "\ea8f"; }
+
+.isp-font-Espandi_Cerchiato:before {
+  content: "\ea91"; }
+
+.isp-font-Espandi_Cerchiato_Full:before {
+  content: "\ea93"; }
+
+.isp-font-azioni-duplica-n:before {
+  content: "\ea90"; }
+
+.isp-font-azioni-duplica-s:before {
+  content: "\ea92"; }
+
+.isp-font-Condividi_Isy:before {
+  content: "\ea94"; }
+
+.isp-font-PC_Lista:before {
+  content: "\ea95"; }
+
+.isp-font-indicazioni:before {
+  content: "\ea97"; }
+
+.isp-font-microfono:before {
+  content: "\ea96"; }
+
+.isp-font-varia-scadenza:before {
+  content: "\ea98"; }
+
+@font-face {
+  font-family: 'ispv2';
+  src: url("/assets/webapp/fonts/ispv2/ispv2.woff2?5zw5rw") format("woff2"), url("/assets/webapp/fonts/ispv2/ispv2.ttf?5zw5rw") format("truetype"), url("/assets/webapp/fonts/ispv2/ispv2.woff?5zw5rw") format("woff"), url("/assets/webapp/fonts/ispv2/ispv2.svg?5zw5rw#ispv2") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block; }
+
+[class^="ispv2-font-"], [class*=" ispv2-font-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ispv2' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale; }
+
+.ispv2-font-message-lines_Light:before {
+  content: "\e982"; }
+
+.ispv2-font-message-lines:before {
+  content: "\e983"; }
+
+.ispv2-font-grip-dots-vertical_Solid:before {
+  content: "\e984"; }
+
+.ispv2-font-grip-dots-vertical:before {
+  content: "\e985"; }
+
+.ispv2-font-arrows-up:before {
+  content: "\e986"; }
+
+.ispv2-font-arrow-right-arrow-left:before {
+  content: "\e970"; }
+
+.ispv2-font-arrow-right-arrow-left_Solid:before {
+  content: "\e971"; }
+
+.ispv2-font-bookmark:before {
+  content: "\e972"; }
+
+.ispv2-font-bookmark_Solid:before {
+  content: "\e973"; }
+
+.ispv2-font-circle-pause:before {
+  content: "\e974"; }
+
+.ispv2-font-circle-play:before {
+  content: "\e975"; }
+
+.ispv2-font-coin:before {
+  content: "\e976"; }
+
+.ispv2-font-coins:before {
+  content: "\e977"; }
+
+.ispv2-font-coins_Solid:before {
+  content: "\e978"; }
+
+.ispv2-font-ellipsis:before {
+  content: "\e979"; }
+
+.ispv2-font-file-plus:before {
+  content: "\e97a"; }
+
+.ispv2-font-inbox-in:before {
+  content: "\e97b"; }
+
+.ispv2-font-inbox-out:before {
+  content: "\e97c"; }
+
+.ispv2-font-location-dot:before {
+  content: "\e97d"; }
+
+.ispv2-font-star:before {
+  content: "\e97e"; }
+
+.ispv2-font-star_Solid:before {
+  content: "\e97f"; }
+
+.ispv2-font-wallet:before {
+  content: "\e980"; }
+
+.ispv2-font-wallet_Solid:before {
+  content: "\e981"; }
+
+.ispv2-font-circle-info_Light:before {
+  content: "\e958"; }
+
+.ispv2-font-face-frown-slight_Light:before {
+  content: "\e959"; }
+
+.ispv2-font-calculator:before {
+  content: "\e95a"; }
+
+.ispv2-font-list-ol:before {
+  content: "\e95b"; }
+
+.ispv2-font-memo:before {
+  content: "\e95c"; }
+
+.ispv2-font-arrows-rotate:before {
+  content: "\e95d"; }
+
+.ispv2-font-italic:before {
+  content: "\e95e"; }
+
+.ispv2-font-face-frown-slight:before {
+  content: "\e95f"; }
+
+.ispv2-font-face-meh_Light:before {
+  content: "\e960"; }
+
+.ispv2-font-face-smile_Light:before {
+  content: "\e961"; }
+
+.ispv2-font-face-smile:before {
+  content: "\e962"; }
+
+.ispv2-font-paperclip:before {
+  content: "\e963"; }
+
+.ispv2-font-italic_Solid:before {
+  content: "\e964"; }
+
+.ispv2-font-arrow-right-from-bracket:before {
+  content: "\e965"; }
+
+.ispv2-font-envelope_Light:before {
+  content: "\e966"; }
+
+.ispv2-font-bold_Solid:before {
+  content: "\e967"; }
+
+.ispv2-font-bold:before {
+  content: "\e968"; }
+
+.ispv2-font-bell_Light:before {
+  content: "\e969"; }
+
+.ispv2-font-bell:before {
+  content: "\e96a"; }
+
+.ispv2-font-face-meh:before {
+  content: "\e96b"; }
+
+.ispv2-font-underline_Solid:before {
+  content: "\e96c"; }
+
+.ispv2-font-user:before {
+  content: "\e96d"; }
+
+.ispv2-font-underline:before {
+  content: "\e96e"; }
+
+.ispv2-font-list-ol_Solid:before {
+  content: "\e96f"; }
+
+.ispv2-font-address-book:before {
+  content: "\e900"; }
+
+.ispv2-font-address-card:before {
+  content: "\e901"; }
+
+.ispv2-font-angle-down:before {
+  content: "\e902"; }
+
+.ispv2-font-angle-right:before {
+  content: "\e903"; }
+
+.ispv2-font-arrow-down:before {
+  content: "\e904"; }
+
+.ispv2-font-arrow-down-to-line:before {
+  content: "\e905"; }
+
+.ispv2-font-arrow-left:before {
+  content: "\e906"; }
+
+.ispv2-font-arrow-right:before {
+  content: "\e907"; }
+
+.ispv2-font-arrow-up:before {
+  content: "\e908"; }
+
+.ispv2-font-arrow-up-right-from-square:before {
+  content: "\e909"; }
+
+.ispv2-font-arrow-up-to-line:before {
+  content: "\e90a"; }
+
+.ispv2-font-bag-shopping:before {
+  content: "\e90b"; }
+
+.ispv2-font-bars:before {
+  content: "\e90c"; }
+
+.ispv2-font-building-columns:before {
+  content: "\e90d"; }
+
+.ispv2-font-bullhorn:before {
+  content: "\e90e"; }
+
+.ispv2-font-calendar-day:before {
+  content: "\e90f"; }
+
+.ispv2-font-caret-down_Solid:before {
+  content: "\e910"; }
+
+.ispv2-font-caret-up_Solid:before {
+  content: "\e911"; }
+
+.ispv2-font-check:before {
+  content: "\e912"; }
+
+.ispv2-font-check_Solid:before {
+  content: "\e913"; }
+
+.ispv2-font-chevron-down:before {
+  content: "\e914"; }
+
+.ispv2-font-chevron-left:before {
+  content: "\e915"; }
+
+.ispv2-font-chevron-right:before {
+  content: "\e916"; }
+
+.ispv2-font-chevrons-down:before {
+  content: "\e917"; }
+
+.ispv2-font-chevrons-left:before {
+  content: "\e918"; }
+
+.ispv2-font-chevrons-right:before {
+  content: "\e919"; }
+
+.ispv2-font-chevrons-up:before {
+  content: "\e91a"; }
+
+.ispv2-font-chevron-up:before {
+  content: "\e91b"; }
+
+.ispv2-font-circle-check:before {
+  content: "\e91c"; }
+
+.ispv2-font-circle-exclamation:before {
+  content: "\e91d"; }
+
+.ispv2-font-circle-info:before {
+  content: "\e91e"; }
+
+.ispv2-font-circle-question:before {
+  content: "\e91f"; }
+
+.ispv2-font-circle-xmark:before {
+  content: "\e920"; }
+
+.ispv2-font-clock:before {
+  content: "\e921"; }
+
+.ispv2-font-clone:before {
+  content: "\e922"; }
+
+.ispv2-font-dollar-sign:before {
+  content: "\e923"; }
+
+.ispv2-font-dollar-sign_Light:before {
+  content: "\e924"; }
+
+.ispv2-font-ellipsis-vertical:before {
+  content: "\e925"; }
+
+.ispv2-font-ellipsis-vertical_Solid:before {
+  content: "\e926"; }
+
+.ispv2-font-envelope:before {
+  content: "\e927"; }
+
+.ispv2-font-equals:before {
+  content: "\e928"; }
+
+.ispv2-font-eraser:before {
+  content: "\e929"; }
+
+.ispv2-font-euro-sign:before {
+  content: "\e92a"; }
+
+.ispv2-font-euro-sign_Light:before {
+  content: "\e92b"; }
+
+.ispv2-font-eye:before {
+  content: "\e92c"; }
+
+.ispv2-font-eye-slash:before {
+  content: "\e92d"; }
+
+.ispv2-font-file-lines:before {
+  content: "\e92e"; }
+
+.ispv2-font-file-lines_Solid:before {
+  content: "\e92f"; }
+
+.ispv2-font-floppy-disk:before {
+  content: "\e930"; }
+
+.ispv2-font-folder-open:before {
+  content: "\e931"; }
+
+.ispv2-font-folder-open_Solid:before {
+  content: "\e932"; }
+
+.ispv2-font-gear:before {
+  content: "\e933"; }
+
+.ispv2-font-grid:before {
+  content: "\e934"; }
+
+.ispv2-font-grid_Solid:before {
+  content: "\e935"; }
+
+.ispv2-font-grid-2:before {
+  content: "\e936"; }
+
+.ispv2-font-grid-2_Solid:before {
+  content: "\e937"; }
+
+.ispv2-font-house:before {
+  content: "\e938"; }
+
+.ispv2-font-house_Solid:before {
+  content: "\e939"; }
+
+.ispv2-font-list:before {
+  content: "\e93a"; }
+
+.ispv2-font-list_Solid:before {
+  content: "\e93b"; }
+
+.ispv2-font-magnifying-glass:before {
+  content: "\e93c"; }
+
+.ispv2-font-magnifying-glass_Light:before {
+  content: "\e93d"; }
+
+.ispv2-font-octagon-xmark:before {
+  content: "\e93e"; }
+
+.ispv2-font-pen:before {
+  content: "\e93f"; }
+
+.ispv2-font-pen-ruler:before {
+  content: "\e940"; }
+
+.ispv2-font-pen-ruler_Solid:before {
+  content: "\e941"; }
+
+.ispv2-font-percent:before {
+  content: "\e942"; }
+
+.ispv2-font-percent_Light:before {
+  content: "\e943"; }
+
+.ispv2-font-phone:before {
+  content: "\e944"; }
+
+.ispv2-font-play:before {
+  content: "\e945"; }
+
+.ispv2-font-print:before {
+  content: "\e946"; }
+
+.ispv2-font-sort:before {
+  content: "\e947"; }
+
+.ispv2-font-sort_Solid_down:before {
+  content: "\e948"; }
+
+.ispv2-font-sort_Solid_up:before {
+  content: "\e949"; }
+
+.ispv2-font-square-minus:before {
+  content: "\e94a"; }
+
+.ispv2-font-square-plus:before {
+  content: "\e94b"; }
+
+.ispv2-font-sterling-sign:before {
+  content: "\e94c"; }
+
+.ispv2-font-sterling-sign_Light:before {
+  content: "\e94d"; }
+
+.ispv2-font-thumbtack:before {
+  content: "\e94e"; }
+
+.ispv2-font-thumbtack_Solid:before {
+  content: "\e94f"; }
+
+.ispv2-font-trash:before {
+  content: "\e950"; }
+
+.ispv2-font-triangle-exclamation:before {
+  content: "\e951"; }
+
+.ispv2-font-triangle-exclamation_Light:before {
+  content: "\e952"; }
+
+.ispv2-font-users:before {
+  content: "\e953"; }
+
+.ispv2-font-users_Solid:before {
+  content: "\e954"; }
+
+.ispv2-font-video:before {
+  content: "\e955"; }
+
+.ispv2-font-video_Light:before {
+  content: "\e956"; }
+
+.ispv2-font-xmark:before {
+  content: "\e957"; }

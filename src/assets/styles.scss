@@ -2,3 +2,27 @@
 @use '@/assets/layout/layout.scss';
 @use 'primeicons/primeicons.css';
 @use '@/assets/demo/demo.scss';
+
+@font-face {
+  font-family: 'ispfont';
+  src: url('/src/assets/imported/ispfont.woff2') format('woff2');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+    font-family: 'ispv2';
+    src: url('/src/assets/imported/ispv2.woff2') format('woff2');
+    font-weight: 400;
+    font-style: normal;
+    font-display: block;
+}
+
+@font-face {
+    font-family: 'icomoon';
+    src: url('/src/assets/imported/icomoon.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@import '@/assets/imported/icon-styles.css';

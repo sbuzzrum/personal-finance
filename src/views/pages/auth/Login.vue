@@ -13,7 +13,7 @@ const router = useRouter();
 const email = ref('');
 const password = ref('');
 const checked = ref(false);
-
+const showDialog = ref(false);
 const error = ref('');
 const isLoading = ref(false);
 
@@ -24,9 +24,10 @@ async function handleSubmit() {
         await authStore.signIn(email.value, password.value);
         router.push('/');
     } catch (e) {
-        error.value = 'Invalid email or password';
+        error.value = JSON.stringify(e, null, 2); //'Invalid email or password';
     } finally {
         isLoading.value = false;
+        showDialog.value = error.value.length > 0;
         if (error.value.length > 0) {
             toast.add({ severity: 'info', summary: 'Info', detail: error.value, life: 3000 });
         }
@@ -37,6 +38,9 @@ async function handleSubmit() {
 <template>
     <FloatingConfigurator />
     <Toast />
+    <Dialog v-model:visible="showDialog" responsive modal header="Access error">
+        <code class="text-surface-500 dark:text-surface-400 block mb-8">{{ error }}</code>
+    </Dialog>
     <!-- <div class="bg-surface-50 dark:bg-surface-950 flex items-center justify-center min-h-screen min-w-[100vw] overflow-hidden"> -->
     <div class="flex flex-col items-center justify-center">
         <div style="border-radius: 56px; padding: 0.3rem; background: linear-gradient(180deg, var(--primary-color) 10%, rgba(33, 150, 243, 0) 30%)">

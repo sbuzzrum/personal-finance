@@ -11,10 +11,13 @@ export const useTransactionsStore = defineStore('transactions', () => {
     const isLoading = ref(false);
     const authStore = useAuthStore();
 
+    const defaultQuery = `*, amount.sum(), categories (id, name, color, icon), accounts (id, name)`;
+
     async function fetchTransactions(filters = {}) {
         isLoading.value = true;
+        transactions.value = [];
         try {
-            const query = supabase.from('transactions').select(`*, amount.sum(), categories (id, name, color), accounts (id, name)`).order('date', { ascending: true });
+            const query = supabase.from('transactions').select(defaultQuery).order('date', { ascending: true });
 
             // Apply filters
             Object.entries(filters).forEach(([key, value]) => {
@@ -26,6 +29,9 @@ export const useTransactionsStore = defineStore('transactions', () => {
                     query.lte('date', value);
                 }
             });
+
+            query.is('deleted_at', null);
+            //query.not('deleted_at', 'is', null);
 
             const { data, error } = await query;
             if (error) throw error;
@@ -42,17 +48,10 @@ export const useTransactionsStore = defineStore('transactions', () => {
     }
 
     async function fetchRecentTransactions() {
-        const { data, error } = await supabase
-            .from('transactions')
-            .select(
-                `
-        *,
-        categories (id, name, color),
-        accounts (id, name)
-      `
-            )
-            .order('date', { ascending: false })
-            .limit(15);
+        const query = supabase.from('transactions').select(defaultQuery).order('date', { ascending: false }).limit(15);
+        query.is('deleted_at', null);
+
+        const { data, error } = await query;
 
         if (error) throw error;
         recentTransactions.value = data;
@@ -67,12 +66,37 @@ export const useTransactionsStore = defineStore('transactions', () => {
         return response.data;
     }
 
+    async function updateTransaction(id: string, transaction: Partial<Transaction>) {
+        transaction.user_id = authStore.user.id;
+        const { data, error } = await supabase.from('transactions').update(transaction).eq('id', id).select(defaultQuery).single();
+
+        if (error) throw error;
+        const index = transactions.value.findIndex((t) => t.id === id);
+        if (index !== -1) {
+            data.tdate = parseISO(data.date);
+            transactions.value[index] = data;
+        }
+        return data;
+    }
+
+    async function deleteTransaction(id: string) {
+        const { error } = await supabase.from('transactions').delete().eq('id', id);
+
+        if (error) throw error;
+        const index = transactions.value.findIndex((t) => t.id === id);
+        if (index !== -1) {
+            transactions.value.splice(index, 1);
+        }
+    }
+
     return {
         transactions,
         recentTransactions,
         isLoading,
         fetchTransactions,
         fetchRecentTransactions,
-        createTransaction
+        createTransaction,
+        deleteTransaction,
+        updateTransaction
     };
 });

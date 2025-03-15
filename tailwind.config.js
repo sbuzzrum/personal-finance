@@ -18,5 +18,5 @@ export default {
             }
         }
     },
-    plugins: [require('tailwindcss-primeui')]
+    plugins: [require('tailwindcss-primeui'), require('@tailwindcss/typography'), require('@tailwindcss/forms'), require('@tailwindcss/aspect-ratio'), require('@tailwindcss/container-queries')]
 };
