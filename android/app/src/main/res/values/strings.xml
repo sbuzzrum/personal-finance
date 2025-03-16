@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">personal-finance</string>
+    <string name="title_activity_main">personal-finance</string>
+    <string name="package_name">com.sbuzzrum.personalfinance</string>
+    <string name="custom_url_scheme">com.sbuzzrum.personalfinance</string>
+</resources>

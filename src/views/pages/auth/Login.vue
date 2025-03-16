@@ -17,6 +17,24 @@ const showDialog = ref(false);
 const error = ref('');
 const isLoading = ref(false);
 
+async function __handleSubmit() {
+    try {
+        isLoading.value = true;
+        error.value = '';
+        authStore.signIn(email.value, password.value).then(() => {
+            router.push('/');
+        });
+    } catch (e) {
+        error.value = JSON.stringify(e, null, 2); //'Invalid email or password';
+    } finally {
+        isLoading.value = false;
+        showDialog.value = error.value.length > 0;
+        if (error.value.length > 0) {
+            toast.add({ severity: 'info', summary: 'Info', detail: error.value, life: 3000 });
+        }
+    }
+}
+
 async function handleSubmit() {
     try {
         isLoading.value = true;

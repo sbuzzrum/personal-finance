@@ -18,6 +18,13 @@ export const useAuthStore = defineStore('auth', () => {
         });
     }
 
+    function _signIn(email: string, password: string) {
+        return supabase.auth.signInWithPassword({
+            email,
+            password
+        });
+    }
+    
     async function signIn(email: string, password: string) {
         const { error } = await supabase.auth.signInWithPassword({
             email,
